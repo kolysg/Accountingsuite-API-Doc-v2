@@ -1,0 +1,10 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Catalog_USTaxCategories1099/@Element",
+"Ref_Key": "a90fd0d3-e271-11e2-960c-22000ac508d9",
+"AmountSign": false,
+"DataVersion": "",
+"Description": "Box 9: Direct Sales",
+"DeletionMark": false,
+"Threshold": 5000,
+"Code": 9
+}

@@ -1,0 +1,8 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Catalog_AvataxCustomerUsageTypes/@Element",
+"Ref_Key": "5d48b9d7-cce4-11e4-80c3-002590f2d21f",
+"Description": "Federal Government",
+"Code": "A",
+"DataVersion": "",
+"DeletionMark": false
+}

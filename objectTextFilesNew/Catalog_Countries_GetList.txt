@@ -1,0 +1,1504 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Catalog_Countries",
+"value": [{
+"Ref_Key": "a3e03d56-1ab4-11e3-8b49-bab74d291c34",
+"DataVersion": "AAAAAAACybg=",
+"DeletionMark": false,
+"Code": "00",
+"Description": "USA"
+},{
+"Ref_Key": "a90fd111-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACybk=",
+"DeletionMark": false,
+"Code": "AF",
+"Description": "Afghanistan"
+},{
+"Ref_Key": "a90fd112-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACybo=",
+"DeletionMark": false,
+"Code": "AX",
+"Description": "Åland Islands"
+},{
+"Ref_Key": "a90fd113-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACybs=",
+"DeletionMark": false,
+"Code": "AL",
+"Description": "Albania"
+},{
+"Ref_Key": "a90fd114-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACybw=",
+"DeletionMark": false,
+"Code": "DZ",
+"Description": "Algeria"
+},{
+"Ref_Key": "a90fd115-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyb0=",
+"DeletionMark": false,
+"Code": "AS",
+"Description": "American Samoa"
+},{
+"Ref_Key": "a90fd116-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyb4=",
+"DeletionMark": false,
+"Code": "AD",
+"Description": "Andorra"
+},{
+"Ref_Key": "a90fd117-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyb8=",
+"DeletionMark": false,
+"Code": "AO",
+"Description": "Angola"
+},{
+"Ref_Key": "a90fd118-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACycA=",
+"DeletionMark": false,
+"Code": "AI",
+"Description": "Anguilla"
+},{
+"Ref_Key": "a90fd119-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACycE=",
+"DeletionMark": false,
+"Code": "AQ",
+"Description": "Antarctica"
+},{
+"Ref_Key": "a90fd11a-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACycI=",
+"DeletionMark": false,
+"Code": "AG",
+"Description": "Antigua and Barbuda"
+},{
+"Ref_Key": "a90fd11b-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACycM=",
+"DeletionMark": false,
+"Code": "AR",
+"Description": "Argentina"
+},{
+"Ref_Key": "a90fd11c-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACycQ=",
+"DeletionMark": false,
+"Code": "AM",
+"Description": "Armenia"
+},{
+"Ref_Key": "a90fd11d-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACycU=",
+"DeletionMark": false,
+"Code": "AW",
+"Description": "Aruba"
+},{
+"Ref_Key": "a90fd11e-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACycY=",
+"DeletionMark": false,
+"Code": "AU",
+"Description": "Australia"
+},{
+"Ref_Key": "a90fd11f-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACycc=",
+"DeletionMark": false,
+"Code": "AT",
+"Description": "Austria"
+},{
+"Ref_Key": "a90fd120-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACycg=",
+"DeletionMark": false,
+"Code": "AZ",
+"Description": "Azerbaijan"
+},{
+"Ref_Key": "a90fd121-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyck=",
+"DeletionMark": false,
+"Code": "BS",
+"Description": "Bahamas"
+},{
+"Ref_Key": "a90fd122-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyco=",
+"DeletionMark": false,
+"Code": "BH",
+"Description": "Bahrain"
+},{
+"Ref_Key": "a90fd123-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACycs=",
+"DeletionMark": false,
+"Code": "BD",
+"Description": "Bangladesh"
+},{
+"Ref_Key": "a90fd124-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACycw=",
+"DeletionMark": false,
+"Code": "BB",
+"Description": "Barbados"
+},{
+"Ref_Key": "a90fd125-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyc0=",
+"DeletionMark": false,
+"Code": "BY",
+"Description": "Belarus"
+},{
+"Ref_Key": "a90fd126-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyc4=",
+"DeletionMark": false,
+"Code": "BE",
+"Description": "Belgium"
+},{
+"Ref_Key": "a90fd127-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyc8=",
+"DeletionMark": false,
+"Code": "BZ",
+"Description": "Belize"
+},{
+"Ref_Key": "a90fd128-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACydA=",
+"DeletionMark": false,
+"Code": "BJ",
+"Description": "Benin"
+},{
+"Ref_Key": "a90fd129-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACydE=",
+"DeletionMark": false,
+"Code": "BM",
+"Description": "Bermuda"
+},{
+"Ref_Key": "a90fd12a-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACydI=",
+"DeletionMark": false,
+"Code": "BT",
+"Description": "Bhutan"
+},{
+"Ref_Key": "a90fd12b-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACydM=",
+"DeletionMark": false,
+"Code": "BO",
+"Description": "Bolivia, Plurinational State of"
+},{
+"Ref_Key": "a90fd12c-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACydQ=",
+"DeletionMark": false,
+"Code": "BQ",
+"Description": "Bonaire, Sint Eustatius and Saba"
+},{
+"Ref_Key": "a90fd12d-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACydU=",
+"DeletionMark": false,
+"Code": "BA",
+"Description": "Bosnia and Herzegovina"
+},{
+"Ref_Key": "a90fd12e-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACydY=",
+"DeletionMark": false,
+"Code": "BW",
+"Description": "Botswana"
+},{
+"Ref_Key": "a90fd12f-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACydc=",
+"DeletionMark": false,
+"Code": "BV",
+"Description": "Bouvet Island"
+},{
+"Ref_Key": "a90fd130-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACydg=",
+"DeletionMark": false,
+"Code": "BR",
+"Description": "Brazil"
+},{
+"Ref_Key": "a90fd131-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACydk=",
+"DeletionMark": false,
+"Code": "IO",
+"Description": "British Indian Ocean Territory"
+},{
+"Ref_Key": "a90fd132-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACydo=",
+"DeletionMark": false,
+"Code": "BN",
+"Description": "Brunei Darussalam"
+},{
+"Ref_Key": "a90fd133-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyds=",
+"DeletionMark": false,
+"Code": "BG",
+"Description": "Bulgaria"
+},{
+"Ref_Key": "a90fd134-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACydw=",
+"DeletionMark": false,
+"Code": "BF",
+"Description": "Burkina Faso"
+},{
+"Ref_Key": "a90fd135-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyd0=",
+"DeletionMark": false,
+"Code": "BI",
+"Description": "Burundi"
+},{
+"Ref_Key": "a90fd136-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyd4=",
+"DeletionMark": false,
+"Code": "KH",
+"Description": "Cambodia"
+},{
+"Ref_Key": "a90fd137-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyd8=",
+"DeletionMark": false,
+"Code": "CM",
+"Description": "Cameroon"
+},{
+"Ref_Key": "a90fd138-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyeA=",
+"DeletionMark": false,
+"Code": "CA",
+"Description": "Canada"
+},{
+"Ref_Key": "a90fd139-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyeE=",
+"DeletionMark": false,
+"Code": "CV",
+"Description": "Cape Verde"
+},{
+"Ref_Key": "a90fd13a-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyeI=",
+"DeletionMark": false,
+"Code": "KY",
+"Description": "Cayman Islands"
+},{
+"Ref_Key": "a90fd13b-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyeM=",
+"DeletionMark": false,
+"Code": "CF",
+"Description": "Central African Republic"
+},{
+"Ref_Key": "a90fd13c-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyeQ=",
+"DeletionMark": false,
+"Code": "TD",
+"Description": "Chad"
+},{
+"Ref_Key": "a90fd13d-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyeU=",
+"DeletionMark": false,
+"Code": "CL",
+"Description": "Chile"
+},{
+"Ref_Key": "a90fd13e-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyeY=",
+"DeletionMark": false,
+"Code": "CN",
+"Description": "China"
+},{
+"Ref_Key": "a90fd13f-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyec=",
+"DeletionMark": false,
+"Code": "CX",
+"Description": "Christmas Island"
+},{
+"Ref_Key": "a90fd140-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyeg=",
+"DeletionMark": false,
+"Code": "CC",
+"Description": "Cocos (Keeling) Islands"
+},{
+"Ref_Key": "a90fd141-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyek=",
+"DeletionMark": false,
+"Code": "CO",
+"Description": "Colombia"
+},{
+"Ref_Key": "a90fd142-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyeo=",
+"DeletionMark": false,
+"Code": "KM",
+"Description": "Comoros"
+},{
+"Ref_Key": "a90fd143-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyes=",
+"DeletionMark": false,
+"Code": "CG",
+"Description": "Congo"
+},{
+"Ref_Key": "a90fd144-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyew=",
+"DeletionMark": false,
+"Code": "CD",
+"Description": "Congo, the Democratic Republic of the"
+},{
+"Ref_Key": "a90fd145-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACye0=",
+"DeletionMark": false,
+"Code": "CK",
+"Description": "Cook Islands"
+},{
+"Ref_Key": "a90fd146-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACye4=",
+"DeletionMark": false,
+"Code": "CR",
+"Description": "Costa Rica"
+},{
+"Ref_Key": "a90fd147-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACye8=",
+"DeletionMark": false,
+"Code": "CI",
+"Description": "Côte d'Ivoire"
+},{
+"Ref_Key": "a90fd148-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyfA=",
+"DeletionMark": false,
+"Code": "HR",
+"Description": "Croatia"
+},{
+"Ref_Key": "a90fd149-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyfE=",
+"DeletionMark": false,
+"Code": "CU",
+"Description": "Cuba"
+},{
+"Ref_Key": "a90fd14a-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyfI=",
+"DeletionMark": false,
+"Code": "CW",
+"Description": "Curaçao"
+},{
+"Ref_Key": "a90fd14b-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyfM=",
+"DeletionMark": false,
+"Code": "CY",
+"Description": "Cyprus"
+},{
+"Ref_Key": "a90fd14c-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyfQ=",
+"DeletionMark": false,
+"Code": "CZ",
+"Description": "Czech Republic"
+},{
+"Ref_Key": "a90fd14d-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyfU=",
+"DeletionMark": false,
+"Code": "DK",
+"Description": "Denmark"
+},{
+"Ref_Key": "a90fd14e-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyfY=",
+"DeletionMark": false,
+"Code": "DJ",
+"Description": "Djibouti"
+},{
+"Ref_Key": "a90fd14f-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyfc=",
+"DeletionMark": false,
+"Code": "DM",
+"Description": "Dominica"
+},{
+"Ref_Key": "a90fd150-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyfg=",
+"DeletionMark": false,
+"Code": "DO",
+"Description": "Dominican Republic"
+},{
+"Ref_Key": "a90fd151-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyfk=",
+"DeletionMark": false,
+"Code": "EC",
+"Description": "Ecuador"
+},{
+"Ref_Key": "a90fd152-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyfo=",
+"DeletionMark": false,
+"Code": "EG",
+"Description": "Egypt"
+},{
+"Ref_Key": "a90fd153-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyfs=",
+"DeletionMark": false,
+"Code": "SV",
+"Description": "El Salvador"
+},{
+"Ref_Key": "a90fd154-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyfw=",
+"DeletionMark": false,
+"Code": "GQ",
+"Description": "Equatorial Guinea"
+},{
+"Ref_Key": "a90fd155-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyf0=",
+"DeletionMark": false,
+"Code": "ER",
+"Description": "Eritrea"
+},{
+"Ref_Key": "a90fd156-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyf4=",
+"DeletionMark": false,
+"Code": "EE",
+"Description": "Estonia"
+},{
+"Ref_Key": "a90fd157-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyf8=",
+"DeletionMark": false,
+"Code": "ET",
+"Description": "Ethiopia"
+},{
+"Ref_Key": "a90fd158-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACygE=",
+"DeletionMark": false,
+"Code": "FK",
+"Description": "Falkland Islands (Malvinas)"
+},{
+"Ref_Key": "a90fd159-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACygI=",
+"DeletionMark": false,
+"Code": "FO",
+"Description": "Faroe Islands"
+},{
+"Ref_Key": "a90fd15a-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACygM=",
+"DeletionMark": false,
+"Code": "FJ",
+"Description": "Fiji"
+},{
+"Ref_Key": "a90fd15b-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACygQ=",
+"DeletionMark": false,
+"Code": "FI",
+"Description": "Finland"
+},{
+"Ref_Key": "a90fd15c-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACygU=",
+"DeletionMark": false,
+"Code": "FR",
+"Description": "France"
+},{
+"Ref_Key": "a90fd15d-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACygY=",
+"DeletionMark": false,
+"Code": "GF",
+"Description": "French Guiana"
+},{
+"Ref_Key": "a90fd15e-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACygc=",
+"DeletionMark": false,
+"Code": "PF",
+"Description": "French Polynesia"
+},{
+"Ref_Key": "a90fd15f-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACygg=",
+"DeletionMark": false,
+"Code": "TF",
+"Description": "French Southern Territories"
+},{
+"Ref_Key": "a90fd160-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACygk=",
+"DeletionMark": false,
+"Code": "GA",
+"Description": "Gabon"
+},{
+"Ref_Key": "a90fd161-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACygo=",
+"DeletionMark": false,
+"Code": "GM",
+"Description": "Gambia"
+},{
+"Ref_Key": "a90fd162-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACygs=",
+"DeletionMark": false,
+"Code": "GE",
+"Description": "Georgia"
+},{
+"Ref_Key": "a90fd163-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACygw=",
+"DeletionMark": false,
+"Code": "DE",
+"Description": "Germany"
+},{
+"Ref_Key": "a90fd164-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyg0=",
+"DeletionMark": false,
+"Code": "GH",
+"Description": "Ghana"
+},{
+"Ref_Key": "a90fd165-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyg4=",
+"DeletionMark": false,
+"Code": "GI",
+"Description": "Gibraltar"
+},{
+"Ref_Key": "a90fd166-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyg8=",
+"DeletionMark": false,
+"Code": "GR",
+"Description": "Greece"
+},{
+"Ref_Key": "a90fd167-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyhA=",
+"DeletionMark": false,
+"Code": "GL",
+"Description": "Greenland"
+},{
+"Ref_Key": "a90fd168-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyhE=",
+"DeletionMark": false,
+"Code": "GD",
+"Description": "Grenada"
+},{
+"Ref_Key": "a90fd169-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyhI=",
+"DeletionMark": false,
+"Code": "GP",
+"Description": "Guadeloupe"
+},{
+"Ref_Key": "a90fd16a-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyhM=",
+"DeletionMark": false,
+"Code": "GU",
+"Description": "Guam"
+},{
+"Ref_Key": "a90fd16b-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyhQ=",
+"DeletionMark": false,
+"Code": "GT",
+"Description": "Guatemala"
+},{
+"Ref_Key": "a90fd16c-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyhU=",
+"DeletionMark": false,
+"Code": "GG",
+"Description": "Guernsey"
+},{
+"Ref_Key": "a90fd16d-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyhY=",
+"DeletionMark": false,
+"Code": "GN",
+"Description": "Guinea"
+},{
+"Ref_Key": "a90fd16e-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyhc=",
+"DeletionMark": false,
+"Code": "GW",
+"Description": "Guinea-Bissau"
+},{
+"Ref_Key": "a90fd16f-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyhg=",
+"DeletionMark": false,
+"Code": "GY",
+"Description": "Guyana"
+},{
+"Ref_Key": "a90fd170-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyhk=",
+"DeletionMark": false,
+"Code": "HT",
+"Description": "Haiti"
+},{
+"Ref_Key": "a90fd171-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyho=",
+"DeletionMark": false,
+"Code": "HM",
+"Description": "Heard Island and McDonald Islands"
+},{
+"Ref_Key": "a90fd172-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyhs=",
+"DeletionMark": false,
+"Code": "VA",
+"Description": "Holy See (Vatican City State)"
+},{
+"Ref_Key": "a90fd173-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyhw=",
+"DeletionMark": false,
+"Code": "HN",
+"Description": "Honduras"
+},{
+"Ref_Key": "a90fd174-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyh0=",
+"DeletionMark": false,
+"Code": "HK",
+"Description": "Hong Kong"
+},{
+"Ref_Key": "a90fd175-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyh4=",
+"DeletionMark": false,
+"Code": "HU",
+"Description": "Hungary"
+},{
+"Ref_Key": "a90fd176-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyh8=",
+"DeletionMark": false,
+"Code": "IS",
+"Description": "Iceland"
+},{
+"Ref_Key": "a90fd177-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyiA=",
+"DeletionMark": false,
+"Code": "IN",
+"Description": "India"
+},{
+"Ref_Key": "a90fd178-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyiE=",
+"DeletionMark": false,
+"Code": "ID",
+"Description": "Indonesia"
+},{
+"Ref_Key": "a90fd179-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyiI=",
+"DeletionMark": false,
+"Code": "IR",
+"Description": "Iran, Islamic Republic of"
+},{
+"Ref_Key": "a90fd17a-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyiM=",
+"DeletionMark": false,
+"Code": "IQ",
+"Description": "Iraq"
+},{
+"Ref_Key": "a90fd17b-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyiQ=",
+"DeletionMark": false,
+"Code": "IE",
+"Description": "Ireland"
+},{
+"Ref_Key": "a90fd17c-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyiU=",
+"DeletionMark": false,
+"Code": "IM",
+"Description": "Isle of Man"
+},{
+"Ref_Key": "a90fd17d-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyiY=",
+"DeletionMark": false,
+"Code": "IL",
+"Description": "Israel"
+},{
+"Ref_Key": "a90fd17e-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyic=",
+"DeletionMark": false,
+"Code": "IT",
+"Description": "Italy"
+},{
+"Ref_Key": "a90fd17f-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyig=",
+"DeletionMark": false,
+"Code": "JM",
+"Description": "Jamaica"
+},{
+"Ref_Key": "a90fd180-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyik=",
+"DeletionMark": false,
+"Code": "JP",
+"Description": "Japan"
+},{
+"Ref_Key": "a90fd181-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyio=",
+"DeletionMark": false,
+"Code": "JE",
+"Description": "Jersey"
+},{
+"Ref_Key": "a90fd182-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyis=",
+"DeletionMark": false,
+"Code": "JO",
+"Description": "Jordan"
+},{
+"Ref_Key": "a90fd183-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyiw=",
+"DeletionMark": false,
+"Code": "KZ",
+"Description": "Kazakhstan"
+},{
+"Ref_Key": "a90fd184-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyi0=",
+"DeletionMark": false,
+"Code": "KE",
+"Description": "Kenya"
+},{
+"Ref_Key": "a90fd185-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyi4=",
+"DeletionMark": false,
+"Code": "KI",
+"Description": "Kiribati"
+},{
+"Ref_Key": "a90fd186-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyi8=",
+"DeletionMark": false,
+"Code": "KP",
+"Description": "Korea, Democratic People's Republic of"
+},{
+"Ref_Key": "a90fd187-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyjA=",
+"DeletionMark": false,
+"Code": "KR",
+"Description": "Korea, Republic of"
+},{
+"Ref_Key": "a90fd188-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyjE=",
+"DeletionMark": false,
+"Code": "KW",
+"Description": "Kuwait"
+},{
+"Ref_Key": "a90fd189-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyjI=",
+"DeletionMark": false,
+"Code": "KG",
+"Description": "Kyrgyzstan"
+},{
+"Ref_Key": "a90fd18a-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyjM=",
+"DeletionMark": false,
+"Code": "LA",
+"Description": "Lao People's Democratic Republic"
+},{
+"Ref_Key": "a90fd18b-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyjQ=",
+"DeletionMark": false,
+"Code": "LV",
+"Description": "Latvia"
+},{
+"Ref_Key": "a90fd18c-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyjU=",
+"DeletionMark": false,
+"Code": "LB",
+"Description": "Lebanon"
+},{
+"Ref_Key": "a90fd18d-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyjY=",
+"DeletionMark": false,
+"Code": "LS",
+"Description": "Lesotho"
+},{
+"Ref_Key": "a90fd18e-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyjc=",
+"DeletionMark": false,
+"Code": "LR",
+"Description": "Liberia"
+},{
+"Ref_Key": "a90fd18f-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyjg=",
+"DeletionMark": false,
+"Code": "LY",
+"Description": "Libya"
+},{
+"Ref_Key": "a90fd190-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyjk=",
+"DeletionMark": false,
+"Code": "LI",
+"Description": "Liechtenstein"
+},{
+"Ref_Key": "a90fd191-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyjo=",
+"DeletionMark": false,
+"Code": "LT",
+"Description": "Lithuania"
+},{
+"Ref_Key": "a90fd192-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyjs=",
+"DeletionMark": false,
+"Code": "LU",
+"Description": "Luxembourg"
+},{
+"Ref_Key": "a90fd193-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyjw=",
+"DeletionMark": false,
+"Code": "MO",
+"Description": "Macao"
+},{
+"Ref_Key": "a90fd194-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyj0=",
+"DeletionMark": false,
+"Code": "MK",
+"Description": "Macedonia, The Former Yugoslav Republic of"
+},{
+"Ref_Key": "a90fd195-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyj4=",
+"DeletionMark": false,
+"Code": "MG",
+"Description": "Madagascar"
+},{
+"Ref_Key": "a90fd196-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyj8=",
+"DeletionMark": false,
+"Code": "MW",
+"Description": "Malawi"
+},{
+"Ref_Key": "a90fd197-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACykA=",
+"DeletionMark": false,
+"Code": "MY",
+"Description": "Malaysia"
+},{
+"Ref_Key": "a90fd198-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACykE=",
+"DeletionMark": false,
+"Code": "MV",
+"Description": "Maldives"
+},{
+"Ref_Key": "a90fd199-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACykI=",
+"DeletionMark": false,
+"Code": "ML",
+"Description": "Mali"
+},{
+"Ref_Key": "a90fd19a-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACykM=",
+"DeletionMark": false,
+"Code": "MT",
+"Description": "Malta"
+},{
+"Ref_Key": "a90fd19b-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACykQ=",
+"DeletionMark": false,
+"Code": "MH",
+"Description": "Marshall Islands"
+},{
+"Ref_Key": "a90fd19c-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACykU=",
+"DeletionMark": false,
+"Code": "MQ",
+"Description": "Martinique"
+},{
+"Ref_Key": "a90fd19d-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACykY=",
+"DeletionMark": false,
+"Code": "MR",
+"Description": "Mauritania"
+},{
+"Ref_Key": "a90fd19e-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACykc=",
+"DeletionMark": false,
+"Code": "MU",
+"Description": "Mauritius"
+},{
+"Ref_Key": "a90fd19f-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACykg=",
+"DeletionMark": false,
+"Code": "YT",
+"Description": "Mayotte"
+},{
+"Ref_Key": "a90fd1a0-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACykk=",
+"DeletionMark": false,
+"Code": "MX",
+"Description": "Mexico"
+},{
+"Ref_Key": "a90fd1a1-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyko=",
+"DeletionMark": false,
+"Code": "FM",
+"Description": "Micronesia, Federated States of"
+},{
+"Ref_Key": "a90fd1a2-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyks=",
+"DeletionMark": false,
+"Code": "MD",
+"Description": "Moldova, Republic of"
+},{
+"Ref_Key": "a90fd1a3-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACykw=",
+"DeletionMark": false,
+"Code": "MC",
+"Description": "Monaco"
+},{
+"Ref_Key": "a90fd1a4-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyk0=",
+"DeletionMark": false,
+"Code": "MN",
+"Description": "Mongolia"
+},{
+"Ref_Key": "a90fd1a5-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyk4=",
+"DeletionMark": false,
+"Code": "ME",
+"Description": "Montenegro"
+},{
+"Ref_Key": "a90fd1a6-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyk8=",
+"DeletionMark": false,
+"Code": "MS",
+"Description": "Montserrat"
+},{
+"Ref_Key": "a90fd1a7-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACylA=",
+"DeletionMark": false,
+"Code": "MA",
+"Description": "Morocco"
+},{
+"Ref_Key": "a90fd1a8-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACylE=",
+"DeletionMark": false,
+"Code": "MZ",
+"Description": "Mozambique"
+},{
+"Ref_Key": "a90fd1a9-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACylI=",
+"DeletionMark": false,
+"Code": "MM",
+"Description": "Myanmar"
+},{
+"Ref_Key": "a90fd1aa-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACylM=",
+"DeletionMark": false,
+"Code": "NA",
+"Description": "Namibia"
+},{
+"Ref_Key": "a90fd1ab-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACylQ=",
+"DeletionMark": false,
+"Code": "NR",
+"Description": "Nauru"
+},{
+"Ref_Key": "a90fd1ac-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACylU=",
+"DeletionMark": false,
+"Code": "NP",
+"Description": "Nepal"
+},{
+"Ref_Key": "a90fd1ad-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACylY=",
+"DeletionMark": false,
+"Code": "NL",
+"Description": "Netherlands"
+},{
+"Ref_Key": "a90fd1ae-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACylc=",
+"DeletionMark": false,
+"Code": "NC",
+"Description": "New Caledonia"
+},{
+"Ref_Key": "a90fd1af-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACylg=",
+"DeletionMark": false,
+"Code": "NZ",
+"Description": "New Zealand"
+},{
+"Ref_Key": "a90fd1b0-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACylk=",
+"DeletionMark": false,
+"Code": "NI",
+"Description": "Nicaragua"
+},{
+"Ref_Key": "a90fd1b1-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACylo=",
+"DeletionMark": false,
+"Code": "NE",
+"Description": "Niger"
+},{
+"Ref_Key": "a90fd1b2-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyls=",
+"DeletionMark": false,
+"Code": "NG",
+"Description": "Nigeria"
+},{
+"Ref_Key": "a90fd1b3-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACylw=",
+"DeletionMark": false,
+"Code": "NU",
+"Description": "Niue"
+},{
+"Ref_Key": "a90fd1b4-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyl0=",
+"DeletionMark": false,
+"Code": "NF",
+"Description": "Norfolk Island"
+},{
+"Ref_Key": "a90fd1b5-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyl4=",
+"DeletionMark": false,
+"Code": "MP",
+"Description": "Northern Mariana Islands"
+},{
+"Ref_Key": "a90fd1b6-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyl8=",
+"DeletionMark": false,
+"Code": "NO",
+"Description": "Norway"
+},{
+"Ref_Key": "a90fd1b7-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACymA=",
+"DeletionMark": false,
+"Code": "OM",
+"Description": "Oman"
+},{
+"Ref_Key": "a90fd1b8-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACymE=",
+"DeletionMark": false,
+"Code": "PK",
+"Description": "Pakistan"
+},{
+"Ref_Key": "a90fd1b9-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACymI=",
+"DeletionMark": false,
+"Code": "PW",
+"Description": "Palau"
+},{
+"Ref_Key": "a90fd1ba-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACymM=",
+"DeletionMark": false,
+"Code": "PS",
+"Description": "Palestine, State of"
+},{
+"Ref_Key": "a90fd1bb-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACymQ=",
+"DeletionMark": false,
+"Code": "PA",
+"Description": "Panama"
+},{
+"Ref_Key": "a90fd1bc-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACymU=",
+"DeletionMark": false,
+"Code": "PG",
+"Description": "Papua New Guinea"
+},{
+"Ref_Key": "a90fd1bd-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACymY=",
+"DeletionMark": false,
+"Code": "PY",
+"Description": "Paraguay"
+},{
+"Ref_Key": "a90fd1be-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACymc=",
+"DeletionMark": false,
+"Code": "PE",
+"Description": "Peru"
+},{
+"Ref_Key": "a90fd1bf-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACymg=",
+"DeletionMark": false,
+"Code": "PH",
+"Description": "Philippines"
+},{
+"Ref_Key": "a90fd1c0-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACymk=",
+"DeletionMark": false,
+"Code": "PN",
+"Description": "Pitcairn"
+},{
+"Ref_Key": "a90fd1c1-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACymo=",
+"DeletionMark": false,
+"Code": "PL",
+"Description": "Poland"
+},{
+"Ref_Key": "a90fd1c2-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyms=",
+"DeletionMark": false,
+"Code": "PT",
+"Description": "Portugal"
+},{
+"Ref_Key": "a90fd1c3-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACymw=",
+"DeletionMark": false,
+"Code": "PR",
+"Description": "Puerto Rico"
+},{
+"Ref_Key": "a90fd1c4-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACym0=",
+"DeletionMark": false,
+"Code": "QA",
+"Description": "Qatar"
+},{
+"Ref_Key": "a90fd1c5-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACym4=",
+"DeletionMark": false,
+"Code": "RE",
+"Description": "Réunion"
+},{
+"Ref_Key": "a90fd1c6-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACym8=",
+"DeletionMark": false,
+"Code": "RO",
+"Description": "Romania"
+},{
+"Ref_Key": "a90fd1c7-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACynA=",
+"DeletionMark": false,
+"Code": "RU",
+"Description": "Russian Federation"
+},{
+"Ref_Key": "a90fd1c8-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACynE=",
+"DeletionMark": false,
+"Code": "RW",
+"Description": "Rwanda"
+},{
+"Ref_Key": "a90fd1c9-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACynI=",
+"DeletionMark": false,
+"Code": "BL",
+"Description": "Saint Barthélemy"
+},{
+"Ref_Key": "a90fd1ca-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACynM=",
+"DeletionMark": false,
+"Code": "SH",
+"Description": "Saint Helena, Ascension and Tristan da Cunha"
+},{
+"Ref_Key": "a90fd1cb-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACynQ=",
+"DeletionMark": false,
+"Code": "KN",
+"Description": "Saint Kitts and Nevis"
+},{
+"Ref_Key": "a90fd1cc-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACynU=",
+"DeletionMark": false,
+"Code": "LC",
+"Description": "Saint Lucia"
+},{
+"Ref_Key": "a90fd1cd-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACynY=",
+"DeletionMark": false,
+"Code": "MF",
+"Description": "Saint Martin (French part)"
+},{
+"Ref_Key": "a90fd1ce-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACync=",
+"DeletionMark": false,
+"Code": "PM",
+"Description": "Saint Pierre and Miquelon"
+},{
+"Ref_Key": "a90fd1cf-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyng=",
+"DeletionMark": false,
+"Code": "VC",
+"Description": "Saint Vincent and the Grenadines"
+},{
+"Ref_Key": "a90fd1d0-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACynk=",
+"DeletionMark": false,
+"Code": "WS",
+"Description": "Samoa"
+},{
+"Ref_Key": "a90fd1d1-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyno=",
+"DeletionMark": false,
+"Code": "SM",
+"Description": "San Marino"
+},{
+"Ref_Key": "a90fd1d2-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyns=",
+"DeletionMark": false,
+"Code": "ST",
+"Description": "Sao Tome and Principe"
+},{
+"Ref_Key": "a90fd1d3-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACynw=",
+"DeletionMark": false,
+"Code": "SA",
+"Description": "Saudi Arabia"
+},{
+"Ref_Key": "a90fd1d4-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyn0=",
+"DeletionMark": false,
+"Code": "SN",
+"Description": "Senegal"
+},{
+"Ref_Key": "a90fd1d5-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyn4=",
+"DeletionMark": false,
+"Code": "RS",
+"Description": "Serbia"
+},{
+"Ref_Key": "a90fd1d6-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyn8=",
+"DeletionMark": false,
+"Code": "SC",
+"Description": "Seychelles"
+},{
+"Ref_Key": "a90fd1d7-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyoA=",
+"DeletionMark": false,
+"Code": "SL",
+"Description": "Sierra Leone"
+},{
+"Ref_Key": "a90fd1d8-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyoE=",
+"DeletionMark": false,
+"Code": "SG",
+"Description": "Singapore"
+},{
+"Ref_Key": "a90fd1d9-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyoI=",
+"DeletionMark": false,
+"Code": "SX",
+"Description": "Sint Maarten (Dutch part)"
+},{
+"Ref_Key": "a90fd1da-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyoM=",
+"DeletionMark": false,
+"Code": "SK",
+"Description": "Slovakia"
+},{
+"Ref_Key": "a90fd1db-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyoQ=",
+"DeletionMark": false,
+"Code": "SI",
+"Description": "Slovenia"
+},{
+"Ref_Key": "a90fd1dc-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyoU=",
+"DeletionMark": false,
+"Code": "SB",
+"Description": "Solomon Islands"
+},{
+"Ref_Key": "a90fd1dd-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyoY=",
+"DeletionMark": false,
+"Code": "SO",
+"Description": "Somalia"
+},{
+"Ref_Key": "a90fd1de-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyoc=",
+"DeletionMark": false,
+"Code": "ZA",
+"Description": "South Africa"
+},{
+"Ref_Key": "a90fd1df-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyog=",
+"DeletionMark": false,
+"Code": "GS",
+"Description": "South Georgia and the South Sandwich Islands"
+},{
+"Ref_Key": "a90fd1e0-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyok=",
+"DeletionMark": false,
+"Code": "SS",
+"Description": "South Sudan"
+},{
+"Ref_Key": "a90fd1e1-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyoo=",
+"DeletionMark": false,
+"Code": "ES",
+"Description": "Spain"
+},{
+"Ref_Key": "a90fd1e2-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyos=",
+"DeletionMark": false,
+"Code": "LK",
+"Description": "Sri Lanka"
+},{
+"Ref_Key": "a90fd1e3-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyow=",
+"DeletionMark": false,
+"Code": "SD",
+"Description": "Sudan"
+},{
+"Ref_Key": "a90fd1e4-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyo0=",
+"DeletionMark": false,
+"Code": "SR",
+"Description": "Suriname"
+},{
+"Ref_Key": "a90fd1e5-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyo4=",
+"DeletionMark": false,
+"Code": "SJ",
+"Description": "Svalbard and Jan Mayen"
+},{
+"Ref_Key": "a90fd1e6-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyo8=",
+"DeletionMark": false,
+"Code": "SZ",
+"Description": "Swaziland"
+},{
+"Ref_Key": "a90fd1e7-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACypA=",
+"DeletionMark": false,
+"Code": "SE",
+"Description": "Sweden"
+},{
+"Ref_Key": "a90fd1e8-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACypE=",
+"DeletionMark": false,
+"Code": "CH",
+"Description": "Switzerland"
+},{
+"Ref_Key": "a90fd1e9-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACypI=",
+"DeletionMark": false,
+"Code": "SY",
+"Description": "Syrian Arab Republic"
+},{
+"Ref_Key": "a90fd1ea-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACypM=",
+"DeletionMark": false,
+"Code": "TW",
+"Description": "Taiwan, Province of China"
+},{
+"Ref_Key": "a90fd1eb-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACypQ=",
+"DeletionMark": false,
+"Code": "TJ",
+"Description": "Tajikistan"
+},{
+"Ref_Key": "a90fd1ec-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACypU=",
+"DeletionMark": false,
+"Code": "TZ",
+"Description": "Tanzania, United Republic of"
+},{
+"Ref_Key": "a90fd1ed-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACypY=",
+"DeletionMark": false,
+"Code": "TH",
+"Description": "Thailand"
+},{
+"Ref_Key": "a90fd1ee-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACypc=",
+"DeletionMark": false,
+"Code": "TL",
+"Description": "Timor-Leste"
+},{
+"Ref_Key": "a90fd1ef-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACypg=",
+"DeletionMark": false,
+"Code": "TG",
+"Description": "Togo"
+},{
+"Ref_Key": "a90fd1f0-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACypk=",
+"DeletionMark": false,
+"Code": "TK",
+"Description": "Tokelau"
+},{
+"Ref_Key": "a90fd1f1-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACypo=",
+"DeletionMark": false,
+"Code": "TO",
+"Description": "Tonga"
+},{
+"Ref_Key": "a90fd1f2-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyps=",
+"DeletionMark": false,
+"Code": "TT",
+"Description": "Trinidad and Tobago"
+},{
+"Ref_Key": "a90fd1f3-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACypw=",
+"DeletionMark": false,
+"Code": "TN",
+"Description": "Tunisia"
+},{
+"Ref_Key": "a90fd1f4-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyp0=",
+"DeletionMark": false,
+"Code": "TR",
+"Description": "Turkey"
+},{
+"Ref_Key": "a90fd1f5-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyp4=",
+"DeletionMark": false,
+"Code": "TM",
+"Description": "Turkmenistan"
+},{
+"Ref_Key": "a90fd1f6-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyp8=",
+"DeletionMark": false,
+"Code": "TC",
+"Description": "Turks and Caicos Islands"
+},{
+"Ref_Key": "a90fd1f7-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyqA=",
+"DeletionMark": false,
+"Code": "TV",
+"Description": "Tuvalu"
+},{
+"Ref_Key": "a90fd1f8-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyqE=",
+"DeletionMark": false,
+"Code": "UG",
+"Description": "Uganda"
+},{
+"Ref_Key": "a90fd1f9-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyqI=",
+"DeletionMark": false,
+"Code": "UA",
+"Description": "Ukraine"
+},{
+"Ref_Key": "a90fd1fa-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyqM=",
+"DeletionMark": false,
+"Code": "AE",
+"Description": "United Arab Emirates"
+},{
+"Ref_Key": "a90fd1fb-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyqQ=",
+"DeletionMark": false,
+"Code": "GB",
+"Description": "United Kingdom"
+},{
+"Ref_Key": "a90fd1fc-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyqU=",
+"DeletionMark": false,
+"Code": "US",
+"Description": "United States"
+},{
+"Ref_Key": "a90fd1fd-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyqY=",
+"DeletionMark": false,
+"Code": "UM",
+"Description": "United States Minor Outlying Islands"
+},{
+"Ref_Key": "a90fd1fe-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyqc=",
+"DeletionMark": false,
+"Code": "UY",
+"Description": "Uruguay"
+},{
+"Ref_Key": "a90fd1ff-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyqg=",
+"DeletionMark": false,
+"Code": "UZ",
+"Description": "Uzbekistan"
+},{
+"Ref_Key": "a90fd200-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyqk=",
+"DeletionMark": false,
+"Code": "VU",
+"Description": "Vanuatu"
+},{
+"Ref_Key": "a90fd201-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyqo=",
+"DeletionMark": false,
+"Code": "VE",
+"Description": "Venezuela, Bolivarian Republic of"
+},{
+"Ref_Key": "a90fd202-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyqs=",
+"DeletionMark": false,
+"Code": "VN",
+"Description": "Viet Nam"
+},{
+"Ref_Key": "a90fd203-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyqw=",
+"DeletionMark": false,
+"Code": "VG",
+"Description": "Virgin Islands, British"
+},{
+"Ref_Key": "a90fd204-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyq0=",
+"DeletionMark": false,
+"Code": "VI",
+"Description": "Virgin Islands, U.S."
+},{
+"Ref_Key": "a90fd205-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyq4=",
+"DeletionMark": false,
+"Code": "WF",
+"Description": "Wallis and Futuna"
+},{
+"Ref_Key": "a90fd206-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyq8=",
+"DeletionMark": false,
+"Code": "EH",
+"Description": "Western Sahara"
+},{
+"Ref_Key": "a90fd207-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyrA=",
+"DeletionMark": false,
+"Code": "YE",
+"Description": "Yemen"
+},{
+"Ref_Key": "a90fd208-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyrE=",
+"DeletionMark": false,
+"Code": "ZM",
+"Description": "Zambia"
+},{
+"Ref_Key": "a90fd209-e271-11e2-960c-22000ac508d9",
+"DataVersion": "AAAAAAACyrI=",
+"DeletionMark": false,
+"Code": "ZW",
+"Description": "Zimbabwe"
+}]
+}

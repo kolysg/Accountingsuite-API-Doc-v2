@@ -1,0 +1,49 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Document_GeneralJournalEntry/@Element",
+"Posted": true,
+"ARorAP": "",
+"Currency_Key": "a90fd0d1-e271-11e2-960c-22000ac508d9",
+"DocumentTotalRC": 49.99,
+"Ref_Key": "3c595133-588a-11e4-80c3-002590f2d21f",
+"Number": "000022",
+"DeletionMark": false,
+"DueDate": "2013-12-01T00:00:00",
+"DataVersion": "",
+"Date": "2013-12-01T21:10:52",
+"ExchangeRate": 1,
+"VoidingEntry": "",
+"VoidingEntry_Type": "StandardODATA.Undefined",
+"DocumentTotal": 49.99,
+"Adjusting": false,
+"gh_descr": "",
+"gh_source": "",
+"Memo": "REVERSE of GJ entry 000005 from 10/31/2013",
+"DoNotReconcile": false,
+"LineItems": [
+{
+"LineNumber": "1",
+"Account_Key": "2452f3f3-27cd-11e3-b6b3-c6f64a6bdc57",
+"AmountDr": 0,
+"AmountCr": 49.99,
+"Memo": "",
+"Company_Key": "00000000-0000-0000-0000-000000000000",
+"Class_Key": "00000000-0000-0000-0000-000000000000",
+"Project_Key": "00000000-0000-0000-0000-000000000000",
+"VoidedEntry": "",
+"VoidedEntry_Type": "StandardODATA.Undefined"
+},
+{
+"LineNumber": "2",
+"Account_Key": "a90fd0cb-e271-11e2-960c-22000ac508d9",
+"AmountDr": 49.99,
+"AmountCr": 0,
+"Memo": "",
+"Company_Key": "00000000-0000-0000-0000-000000000000",
+"Class_Key": "00000000-0000-0000-0000-000000000000",
+"Project_Key": "00000000-0000-0000-0000-000000000000",
+"VoidedEntry": "",
+"VoidedEntry_Type": "StandardODATA.Undefined"
+}
+],
+"Currency@navigationLinkUrl": "Document_GeneralJournalEntry(guid'3c595133-588a-11e4-80c3-002590f2d21f')/Currency"
+}

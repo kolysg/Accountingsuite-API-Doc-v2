@@ -1,0 +1,95 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Catalog_DocumentNumbering",
+"value": [{
+"Ref_Key": "cbc53e04-7327-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAAPwitU=",
+"DeletionMark": false,
+"Code": "000000005",
+"Description": "Companies",
+"Number": "00194"
+},{
+"Ref_Key": "b06cbec0-8d85-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAAPIYKU=",
+"DeletionMark": false,
+"Code": "000000006",
+"Description": "Shipment",
+"Number": "1034"
+},{
+"Ref_Key": "106ee2d3-9ede-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAAPTa0o=",
+"DeletionMark": false,
+"Code": "000000007",
+"Description": "Item receipt",
+"Number": "1075"
+},{
+"Ref_Key": "106ee2d4-9ede-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAAPLj10=",
+"DeletionMark": false,
+"Code": "000000008",
+"Description": "Deposit",
+"Number": "000030"
+},{
+"Ref_Key": "3a9cfece-cde2-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAAPYhP4=",
+"DeletionMark": false,
+"Code": "000000009",
+"Description": "Journal entry",
+"Number": "000057"
+},{
+"Ref_Key": "98d7ac00-ea19-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAAEg9ss=",
+"DeletionMark": false,
+"Code": "000000010",
+"Description": "Jays Document",
+"Number": "123456789"
+},{
+"Ref_Key": "c8a67d1a-3292-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAOfzcU=",
+"DeletionMark": false,
+"Code": "000000012",
+"Description": "Credit memo",
+"Number": "1007"
+},{
+"Ref_Key": "c8a67d1b-3292-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAPTwgs=",
+"DeletionMark": false,
+"Code": "000000010",
+"Description": "Assembly",
+"Number": "1021"
+},{
+"Ref_Key": "c8a67d1c-3292-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAALqu3A=",
+"DeletionMark": false,
+"Code": "000000011",
+"Description": "Purchase return",
+"Number": "1004"
+},{
+"Ref_Key": "175d1da3-bae5-11e3-8dc9-fe4f72aefe5e",
+"DataVersion": "AAAAAAPwqrk=",
+"DeletionMark": false,
+"Code": "000000001",
+"Description": "Purchase order",
+"Number": "000170"
+},{
+"Ref_Key": "e6a40d15-d318-11e3-8dc9-fe4f72aefe5e",
+"DataVersion": "AAAAAAPxxAc=",
+"DeletionMark": false,
+"Code": "000000002",
+"Description": "Sales order",
+"Number": "010132"
+},{
+"Ref_Key": "e6a40d4f-d318-11e3-8dc9-fe4f72aefe5e",
+"DataVersion": "AAAAAAPxcgU=",
+"DeletionMark": false,
+"Code": "000000003",
+"Description": "Sales Invoice",
+"Number": "000264"
+},{
+"Ref_Key": "61c723d4-ee60-11e3-944e-22000ac73cba",
+"DataVersion": "AAAAAAPwqTs=",
+"DeletionMark": false,
+"Code": "000000004",
+"Description": "Quote",
+"Number": "001059"
+}]
+}

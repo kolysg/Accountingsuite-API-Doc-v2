@@ -1,0 +1,178 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Catalog_PriceLevels",
+"value": [{
+"Ref_Key": "4b2cb0a3-a41b-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAAAHOEA=",
+"DeletionMark": false,
+"Description": "Student",
+"NewObject": true
+},{
+"Ref_Key": "583932ce-a41b-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAAAHOEE=",
+"DeletionMark": false,
+"Description": "Beginner",
+"NewObject": true
+},{
+"Ref_Key": "583932cf-a41b-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAAAHOEI=",
+"DeletionMark": false,
+"Description": "Intermediate",
+"NewObject": true
+},{
+"Ref_Key": "61df6921-a41b-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAAAHOEM=",
+"DeletionMark": false,
+"Description": "Advanced",
+"NewObject": true
+},{
+"Ref_Key": "2df8fcb1-bd3d-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAACQJfc=",
+"DeletionMark": false,
+"Description": "Apple",
+"NewObject": true
+},{
+"Ref_Key": "c94137d2-f9e9-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAAD14+8=",
+"DeletionMark": false,
+"Description": "Corporate",
+"NewObject": true
+},{
+"Ref_Key": "7012e524-3a22-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAE+k2Y=",
+"DeletionMark": false,
+"Description": "Dealer 1",
+"NewObject": true
+},{
+"Ref_Key": "7012e525-3a22-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAE+k20=",
+"DeletionMark": false,
+"Description": "Dealer 5",
+"NewObject": true
+},{
+"Ref_Key": "49ea5073-3fa6-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAFHBg8=",
+"DeletionMark": false,
+"Description": "Government",
+"NewObject": true
+},{
+"Ref_Key": "b569dd8e-5350-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAF8SJk=",
+"DeletionMark": false,
+"Description": "Buyer",
+"NewObject": true
+},{
+"Ref_Key": "d3d5c658-58a0-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAGF0Xk=",
+"DeletionMark": false,
+"Description": "Loco price level",
+"NewObject": true
+},{
+"Ref_Key": "d7857e67-62e9-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAGX7Js=",
+"DeletionMark": false,
+"Description": "Contractor",
+"NewObject": true
+},{
+"Ref_Key": "7cb35a4f-738c-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAHKSAQ=",
+"DeletionMark": false,
+"Description": "Retail",
+"NewObject": true
+},{
+"Ref_Key": "8782fb4b-738c-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAHKSAc=",
+"DeletionMark": false,
+"Description": "Web",
+"NewObject": true
+},{
+"Ref_Key": "43049a12-7b49-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAHdAEI=",
+"DeletionMark": false,
+"Description": "Educators",
+"NewObject": true
+},{
+"Ref_Key": "594717ac-cac3-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAK1mPg=",
+"DeletionMark": false,
+"Description": "Vendor",
+"NewObject": true
+},{
+"Ref_Key": "72b85fe3-cac4-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAK1m9s=",
+"DeletionMark": false,
+"Description": "Reselling Price for Clubs",
+"NewObject": true
+},{
+"Ref_Key": "7c305e86-2c52-11e3-827d-af4343366b37",
+"DataVersion": "AAAAAAAHOEQ=",
+"DeletionMark": false,
+"Description": "Customer",
+"NewObject": false
+},{
+"Ref_Key": "e8c56f55-2c83-11e3-827d-af4343366b37",
+"DataVersion": "AAAAAAAHOEU=",
+"DeletionMark": false,
+"Description": "James Ko Oct",
+"NewObject": false
+},{
+"Ref_Key": "b997da15-2c88-11e3-827d-af4343366b37",
+"DataVersion": "AAAAAAAHOEY=",
+"DeletionMark": false,
+"Description": "Oct01",
+"NewObject": false
+},{
+"Ref_Key": "01d0ce99-2cb1-11e3-827d-af4343366b37",
+"DataVersion": "AAAAAAAHOEc=",
+"DeletionMark": false,
+"Description": "Harvard",
+"NewObject": false
+},{
+"Ref_Key": "35a64ecc-2cb1-11e3-827d-af4343366b37",
+"DataVersion": "AAAAAAAHOEg=",
+"DeletionMark": false,
+"Description": "Coach China",
+"NewObject": false
+},{
+"Ref_Key": "89f90c72-0084-11e3-8b49-bab74d291c34",
+"DataVersion": "AAAAAAAHOEk=",
+"DeletionMark": false,
+"Description": "Partner",
+"NewObject": false
+},{
+"Ref_Key": "a7df0282-0084-11e3-8b49-bab74d291c34",
+"DataVersion": "AAAAAAAHOEo=",
+"DeletionMark": false,
+"Description": "Wholesale",
+"NewObject": false
+},{
+"Ref_Key": "c63fb162-0085-11e3-8b49-bab74d291c34",
+"DataVersion": "AAAAAAAHOEs=",
+"DeletionMark": false,
+"Description": "Distributor",
+"NewObject": false
+},{
+"Ref_Key": "be1ceaf6-1b37-11e3-8b49-bab74d291c34",
+"DataVersion": "AAAAAAAHOEw=",
+"DeletionMark": false,
+"Description": "Affiliate",
+"NewObject": false
+},{
+"Ref_Key": "f0a9508b-a4b5-11e3-8dc9-fe4f72aefe5e",
+"DataVersion": "AAAAAAAHOE0=",
+"DeletionMark": false,
+"Description": "Friends and Family",
+"NewObject": false
+},{
+"Ref_Key": "c8836fc7-abad-11e3-8dc9-fe4f72aefe5e",
+"DataVersion": "AAAAAAAHOE4=",
+"DeletionMark": false,
+"Description": "Alan Ko",
+"NewObject": false
+},{
+"Ref_Key": "eb456700-3dd5-11e4-b41e-22000ae50b89",
+"DataVersion": "AAAAAAAHOE8=",
+"DeletionMark": false,
+"Description": "DIGITAL",
+"NewObject": true
+}]
+}

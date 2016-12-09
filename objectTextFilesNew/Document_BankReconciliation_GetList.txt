@@ -1,0 +1,229 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Document_BankReconciliation",
+"value": [{
+"Ref_Key": "6a7d18f4-fc21-11e5-80c7-002590f2d21f",
+"DataVersion": "AAAAAANW+WM=",
+"DeletionMark": false,
+"Number": "000001",
+"Date": "2016-03-31T12:00:00",
+"Posted": false,
+"BankAccount_Key": "4f84a162-0081-11e3-8b49-bab74d291c34",
+"BeginningBalance": 0,
+"ClearedAmount": -2853,
+"ClearedBalance": -2853,
+"Difference": 2853,
+"EndingBalance": 0,
+"Memo": "",
+"payments": 0,
+"deposits": 0,
+"LineItems": [
+{
+"Ref_Key": "6a7d18f4-fc21-11e5-80c7-002590f2d21f",
+"LineNumber": "1",
+"Transaction": "fd62db4b-8343-11e5-80c5-002590f2d221",
+"Transaction_Type": "StandardODATA.Document_Check",
+"TransactionAmount": -569,
+"Cleared": true
+},
+{
+"Ref_Key": "6a7d18f4-fc21-11e5-80c7-002590f2d21f",
+"LineNumber": "2",
+"Transaction": "fd62db4a-8343-11e5-80c5-002590f2d221",
+"Transaction_Type": "StandardODATA.Document_Check",
+"TransactionAmount": -689,
+"Cleared": true
+},
+{
+"Ref_Key": "6a7d18f4-fc21-11e5-80c7-002590f2d21f",
+"LineNumber": "3",
+"Transaction": "846d348d-7f24-11e5-80c5-002590f2d221",
+"Transaction_Type": "StandardODATA.Document_InvoicePayment",
+"TransactionAmount": -705,
+"Cleared": true
+},
+{
+"Ref_Key": "6a7d18f4-fc21-11e5-80c7-002590f2d21f",
+"LineNumber": "4",
+"Transaction": "7a9b8226-7f24-11e5-80c5-002590f2d221",
+"Transaction_Type": "StandardODATA.Document_InvoicePayment",
+"TransactionAmount": -890,
+"Cleared": true
+}
+],
+"BankAccount@navigationLinkUrl": "Document_BankReconciliation(guid'6a7d18f4-fc21-11e5-80c7-002590f2d21f')/BankAccount"
+},{
+"Ref_Key": "76bab434-000b-11e6-80c7-002590f2d21f",
+"DataVersion": "AAAAAANf3vU=",
+"DeletionMark": false,
+"Number": "000002",
+"Date": "2015-11-30T12:00:00",
+"Posted": false,
+"BankAccount_Key": "4f84a162-0081-11e3-8b49-bab74d291c34",
+"BeginningBalance": 0,
+"ClearedAmount": -2853,
+"ClearedBalance": -2853,
+"Difference": 2853,
+"EndingBalance": 0,
+"Memo": "",
+"payments": 0,
+"deposits": 0,
+"LineItems": [
+{
+"Ref_Key": "76bab434-000b-11e6-80c7-002590f2d21f",
+"LineNumber": "1",
+"Transaction": "fd62db4b-8343-11e5-80c5-002590f2d221",
+"Transaction_Type": "StandardODATA.Document_Check",
+"TransactionAmount": -569,
+"Cleared": true
+},
+{
+"Ref_Key": "76bab434-000b-11e6-80c7-002590f2d21f",
+"LineNumber": "2",
+"Transaction": "fd62db4a-8343-11e5-80c5-002590f2d221",
+"Transaction_Type": "StandardODATA.Document_Check",
+"TransactionAmount": -689,
+"Cleared": true
+},
+{
+"Ref_Key": "76bab434-000b-11e6-80c7-002590f2d21f",
+"LineNumber": "3",
+"Transaction": "846d348d-7f24-11e5-80c5-002590f2d221",
+"Transaction_Type": "StandardODATA.Document_InvoicePayment",
+"TransactionAmount": -705,
+"Cleared": true
+},
+{
+"Ref_Key": "76bab434-000b-11e6-80c7-002590f2d21f",
+"LineNumber": "4",
+"Transaction": "7a9b8226-7f24-11e5-80c5-002590f2d221",
+"Transaction_Type": "StandardODATA.Document_InvoicePayment",
+"TransactionAmount": -890,
+"Cleared": true
+}
+],
+"BankAccount@navigationLinkUrl": "Document_BankReconciliation(guid'76bab434-000b-11e6-80c7-002590f2d21f')/BankAccount"
+},{
+"Ref_Key": "d1311f09-073c-11e6-80c7-002590f2d21f",
+"DataVersion": "AAAAAAPwG+0=",
+"DeletionMark": false,
+"Number": "000003",
+"Date": "2016-04-30T23:59:59",
+"Posted": true,
+"BankAccount_Key": "4f84a162-0081-11e3-8b49-bab74d291c34",
+"BeginningBalance": 0,
+"ClearedAmount": 1089816,
+"ClearedBalance": 1089816,
+"Difference": -1089216,
+"EndingBalance": 600,
+"Memo": "",
+"payments": 0,
+"deposits": 0,
+"LineItems": [
+{
+"Ref_Key": "d1311f09-073c-11e6-80c7-002590f2d21f",
+"LineNumber": "1",
+"Transaction": "28724cae-5888-11e4-80c3-002590f2d21f",
+"Transaction_Type": "StandardODATA.Document_CashSale",
+"TransactionAmount": 1000000,
+"Cleared": true
+},
+{
+"Ref_Key": "d1311f09-073c-11e6-80c7-002590f2d21f",
+"LineNumber": "2",
+"Transaction": "fd62db4b-8343-11e5-80c5-002590f2d221",
+"Transaction_Type": "StandardODATA.Document_Check",
+"TransactionAmount": -569,
+"Cleared": true
+},
+{
+"Ref_Key": "d1311f09-073c-11e6-80c7-002590f2d21f",
+"LineNumber": "3",
+"Transaction": "fd62db4a-8343-11e5-80c5-002590f2d221",
+"Transaction_Type": "StandardODATA.Document_Check",
+"TransactionAmount": -689,
+"Cleared": true
+},
+{
+"Ref_Key": "d1311f09-073c-11e6-80c7-002590f2d21f",
+"LineNumber": "4",
+"Transaction": "846d348d-7f24-11e5-80c5-002590f2d221",
+"Transaction_Type": "StandardODATA.Document_InvoicePayment",
+"TransactionAmount": -705,
+"Cleared": true
+},
+{
+"Ref_Key": "d1311f09-073c-11e6-80c7-002590f2d21f",
+"LineNumber": "5",
+"Transaction": "7a9b8226-7f24-11e5-80c5-002590f2d221",
+"Transaction_Type": "StandardODATA.Document_InvoicePayment",
+"TransactionAmount": -890,
+"Cleared": true
+},
+{
+"Ref_Key": "d1311f09-073c-11e6-80c7-002590f2d21f",
+"LineNumber": "6",
+"Transaction": "816a58e8-092b-11e5-80c3-002590f2d21f",
+"Transaction_Type": "StandardODATA.Document_CashReceipt",
+"TransactionAmount": 45169,
+"Cleared": true
+},
+{
+"Ref_Key": "d1311f09-073c-11e6-80c7-002590f2d21f",
+"LineNumber": "7",
+"Transaction": "2d5da377-2eb1-11e6-80d8-0cc47ac0d6e3",
+"Transaction_Type": "StandardODATA.Document_Deposit",
+"TransactionAmount": 500,
+"Cleared": true
+},
+{
+"Ref_Key": "d1311f09-073c-11e6-80c7-002590f2d21f",
+"LineNumber": "8",
+"Transaction": "cba2fc2d-8417-11e5-80c5-002590f2d221",
+"Transaction_Type": "StandardODATA.Document_Deposit",
+"TransactionAmount": 46500,
+"Cleared": true
+},
+{
+"Ref_Key": "d1311f09-073c-11e6-80c7-002590f2d21f",
+"LineNumber": "9",
+"Transaction": "126445e6-0964-11e5-80c3-002590f2d21f",
+"Transaction_Type": "StandardODATA.Document_Deposit",
+"TransactionAmount": 500,
+"Cleared": true
+},
+{
+"Ref_Key": "d1311f09-073c-11e6-80c7-002590f2d21f",
+"LineNumber": "10",
+"Transaction": "74d2845c-8a3a-11e5-80c5-002590f2d221",
+"Transaction_Type": "StandardODATA.Document_InvoicePayment",
+"TransactionAmount": -11567.01,
+"Cleared": true
+},
+{
+"Ref_Key": "d1311f09-073c-11e6-80c7-002590f2d21f",
+"LineNumber": "11",
+"Transaction": "0ab70449-a06c-11e5-80c5-002590f2d221",
+"Transaction_Type": "StandardODATA.Document_GeneralJournalEntry",
+"TransactionAmount": 780000,
+"Cleared": true
+},
+{
+"Ref_Key": "d1311f09-073c-11e6-80c7-002590f2d21f",
+"LineNumber": "12",
+"Transaction": "6ba9425a-a05a-11e5-80c5-002590f2d221",
+"Transaction_Type": "StandardODATA.Document_InvoicePayment",
+"TransactionAmount": -780000,
+"Cleared": true
+},
+{
+"Ref_Key": "d1311f09-073c-11e6-80c7-002590f2d21f",
+"LineNumber": "13",
+"Transaction": "991e585c-f799-11e5-80c7-002590f2d21f",
+"Transaction_Type": "StandardODATA.Document_GeneralJournalEntry",
+"TransactionAmount": 11567.01,
+"Cleared": true
+}
+],
+"BankAccount@navigationLinkUrl": "Document_BankReconciliation(guid'd1311f09-073c-11e6-80c7-002590f2d21f')/BankAccount"
+}]
+}

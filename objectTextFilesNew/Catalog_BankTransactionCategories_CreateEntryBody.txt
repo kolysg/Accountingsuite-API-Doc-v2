@@ -1,0 +1,7 @@
+﻿{
+"Code":"48505",
+"Description":"Test8505", 
+"FullDescription": "",
+"DataVersion": "",
+"CategoryType": "income",
+"Account_Key": "00000000-0000-0000-0000-000000000000",}

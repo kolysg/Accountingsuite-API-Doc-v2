@@ -1,0 +1,8 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Catalog_ExpensifyCategories/@Element",
+"Ref_Key": "faba9c6d-fa35-11e2-8b49-bab74d291c34",
+"Description": "Other",
+"DataVersion": "",
+"DeletionMark": false,
+"Account_Key": "00000000-0000-0000-0000-000000000000"
+}

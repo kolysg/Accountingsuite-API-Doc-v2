@@ -1,0 +1,9 @@
+﻿{
+"odata.error": {
+"code": "4",
+"message": {
+"lang": "en",
+"value": "Internal service error"
+}
+}
+}
