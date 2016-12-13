@@ -1,0 +1,35 @@
+html, body, .container, .row {
+    height: 100%;
+}
+
+#side-bar {
+  /*background-color: #D7DBDD;*/
+}
+
+.bs-sidebar hidden-print.affix {
+  position: static;
+}
+
+.nav nav-list.affix{
+	position:static;
+}
+
+@media (min-width: 992px) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1000;
+    display: block;
+    background-color: #CCCCCC;
+  }
+}
+
+@media (min-width: 1200px) {
+	.col-lg-9 {
+	    width: 75%;
+	    float: right;
+	    padding-left: 20px;
+	}
+}

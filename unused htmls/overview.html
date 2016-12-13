@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang = 'en'>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<!--    bootstrap framework-->
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href = "./assets/css/menubar.css" rel = "stylesheet">
+    <link href = "./assets/css/pygments-manni.css" rel = "stylesheet"> 
+    <!-- <link href = "./assets/css/docs.css" rel = "stylesheet">  -->
+    <link href = "./assets/css/mainContent.css" rel = "stylesheet">
+    <title> API Doc</title>
+
+</head>
+
+<body>  
+    <div class="container">
+
+        <div class="row"> 
+
+            <!--Navigation menu-->
+            <div id = "nav-bar" class = "col-md-12"></div>
+            <div id = 'side-bar' class = "col-md-3"></div>
+            <div id = "main-content" class = "col-md-9"></div>
+        </div>
+
+<!--        </div>-->
+    </div>
+    <script type="text/javascript">
+    var pages= ['overview.html'];
+    var new_pages = [];
+    $main = $('#main-content');
+    $(document).ready(function(){
+        $('#nav-bar').load('header.html',function(){console.log('header loaded')});
+        $('#side-bar').load('navbar1.html',function(){console.log('nav loaded')});
+
+        doLoad =  function () {
+            if(pages.length > 0) {
+              // use shift to get the next page off the array
+              $.get(pages.shift(), function(content) {
+                  // append content to .main
+                  var content = $main.append(content);
+                  new_pages.push(content);
+                  // call do load to get the next entry
+                  doLoad();
+              });
+        }
+    };
+
+    doLoad();
+    console.log(new_pages);
+
+        // var main_Div = $("#main-content");
+
+        // $.each(pages, function (i,page){
+        //     var new_Div = main_Div.prepend('div');
+        //     new_Div.load(page);
+        //     new_Div.append(main_Div);
+        //     console.log('Content' + i + " loaded");
+        // });
+
+        // $('#main-content-1').load('Catalog_Countries_raw.html',function(){console.log('content1 loaded')});
+        // $('#main-content-2').load('Catalog_Addresses.html',function(){console.log('content2 loaded')});
+        // $('#main-content').load(catalog_arr.forEach(function(item){
+        //         console.log(item + 'content loaded')}))
+        });
+    </script>
+        
+    <script>
+        var height = $('#main-content').height();
+        console.log(height);
+        var side_bar_height = $('#side-bar').height(height);
+        console.log(side_bar_height);
+    </script>
+
+</body>
+</html>

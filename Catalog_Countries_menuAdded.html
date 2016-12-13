@@ -8,6 +8,11 @@
 <!--	<link href="bootstrap/css/bootstrap.css" rel="stylesheet">-->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link href = "./assets/css/menubar.css" rel = "stylesheet"> 
+    <link href="./assets/css/docs.css" rel="stylesheet">
+    <link href="./assets/css/pygments-manni.css" rel="stylesheet">
+     <script src="https://code.jquery.com/jquery-2.2.4.js"
+        integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI="
+        crossorigin="anonymous"></script>
     <!-- Latest compiled and minified CSS -->
     <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">-->
 
@@ -19,7 +24,7 @@
 </head>
 
 <body class = 'main_container'>	
-<!--    too add main container to the right-->
+
     <div class="container-fluid">
         <div class="row"> 
             <!--Navigation menu-->
@@ -29,7 +34,6 @@
             <div class="col-lg-offset-2 col-lg-8"> ... </div>
         </div>
     </div>
-
 
     
 <!--    main-container-->
@@ -52,7 +56,7 @@
                     
 <!--                    Master Data-->
                     <li  data-toggle="collapse" data-target="#Master-data" class="collapsed active">
-                      <a href="#"> Master Data <span class="arrow"></span></a>
+                      <a href="#"> Master data <span class="arrow"></span></a>
                     </li>
                     <ul class="sub-menu collapse" id="Master-data">
 <!--                        <li class="active"><a href="#">Overview</a></li>-->
@@ -117,7 +121,13 @@
             </div>
         </div>
     
-
+        <script>
+        $("#header").load("header.html");
+        $("#col-lg-offset-2 col-lg-8").load("Catalog_Countries_raw.html");
+//        $("#footer").load("footer.html");
+        </script>
+    
+    
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!--script for Bootstrap -->
@@ -125,11 +135,8 @@
     
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-    <script
-      src="https://code.jquery.com/jquery-3.1.1.min.js"
-      integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
-      crossorigin="anonymous">
-    </script>
+    
+   
     
     
 </body>

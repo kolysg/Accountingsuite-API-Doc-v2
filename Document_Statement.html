@@ -1,360 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <!-- Meta, title, CSS, favicons, etc. -->
+<head>
     <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="">
-<meta name="author" content="">
-
-<title>
-
-    AccountingSuite API
-
-</title>
-
-<!-- Bootstrap core CSS -->
-<link href="./dist/css/bootstrap.css" rel="stylesheet">
-
-<!-- Documentation extras -->
-<link rel="icon" href="http://developer.accountingsuite.com/favicon.ico" type="image/x-icon">
-<link href="./assets/css/docs.css" rel="stylesheet">
-<link href="./assets/css/pygments-manni.css" rel="stylesheet">
-
-<script type="text/javascript" language="javascript">
-    function moveWindow (){
-      if(window.location.hash) {
-        // Fragment exists
-
-      } else {
-        // Fragment doesn't exist
-        window.location.hash="#overview";
-      }
-      
-    }
-</script>
-
-  </head>
-  
-  <body onload="moveWindow()">
-
-    <!-- Docs master nav -->
-    <header class="navbar navbar-inverse navbar-fixed-top bs-docs-nav" role="banner">
-  <div class="container">
-    <div class="navbar-header">
-      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a href="http://www.accountingsuite.com"><img src="https://s3-us-west-1.amazonaws.com/assetsylsi/logo_full_yellow_and_black.png" width="153" height="60"></a>
-    </div>
-
-  </div>
-</header>
-  
-    <div class="container bs-docs-container">
-      <div class="row">
-        <div class="col-md-3">
-          <div class="bs-sidebar hidden-print" role="complementary">
-            <ul class="nav bs-sidenav">
-              <li><a href="http://developer.accountingsuite.com/overview.html><strong><u>Introduction</u></strong></a>
-              <ul class="nav bs-sidenav">
-                <li>
-  <a href="http://developer.accountingsuite.com/overview.html>Overview</a>
-</li>
-<li>
-  <a href="http://developer.accountingsuite.com/auth.html>Authentication (OAuth 2.0)</a>
-</li>
-</ul></li>    
-<li><a href="http://developer.accountingsuite.com/Catalog_Addresses.html><strong><u>Master data</u></strong></a>    
-<ul class="nav bs-sidenav">
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_Addresses.html>Addresses / contacts</a>
-</li>
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_BankTransactionCategories.html>Bank transaction categories</a>
-</li>
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_Characteristics.html>Characteristics</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_Classes.html>Classes</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_Companies.html>Customer / Vendor Central</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_Countries.html>Countries</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_Currencies.html>Currencies</a>
-</li>
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_DocumentNumbering.html>Numbering</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_ExpensifyCategories.html>Expensify categories</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_Locations.html>Locations</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_Lots.html>Lots</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_Milestones.html>Milestones</a>
-</li>
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_PaymentMethods.html>Payment methods</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_PaymentTerms.html>Payment terms</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_PriceLevels.html>Price levels</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_ProductCategories.html>Item categories</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_Products.html>Items</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_Projects.html>Projects / Jobs</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_SalesPeople.html>Sales people</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_SalesTaxAgencies.html>Sales tax agencies</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_SalesTaxComponents.html>Sales tax components</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_SalesTaxRates.html>Sales tax rates</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_ShippingCarriers.html>Shipping carriers</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_States.html>States</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_TaxCodes.html>Tax codes (Avatax)</a>
-</li>
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_Units.html>Units</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_UnitSets.html>UoM sets</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Catalog_USTaxCategories1099.html>1099 category</a>
-</li>
-
-<li>
-  <a href="http://developer.accountingsuite.com/ChartOfAccounts_ChartOfAccounts.html>Chart of accounts</a>
-</li>
-
-</ul></li>
-
-<li><a href="http://developer.accountingsuite.com/Document_Assembly.html><strong><u>Business data</u></strong></a>
-<ul class="nav bs-sidenav">
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_Assembly.html>Assembly build</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_BankReconciliation.html>Bank reconciliation</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_BankTransfer.html>Bank transfer</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_Budget.html>Budget</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_CashReceipt.html>Cash receipt</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_CashSale.html>Cash sale</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_Check.html>Payment</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_Deposit.html>Deposit</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_GeneralJournalEntry.html>Journal entry</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_InvoicePayment.html>Bill payment</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_ItemAdjustment.html>Inventory adjustment</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_ItemReceipt.html>Item receipt</a>
-</li>
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_PurchaseInvoice.html>Bill</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_PurchaseOrder.html>Purchase Order</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_PurchaseReturn.html>Purchase return</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_Quote.html>Quote</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_SalesInvoice.html>Sales invoice</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_SalesOrder.html>Sales order</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_SalesReturn.html>Credit memo</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_SalesTaxPayment.html>Sales tax payment</a>
-</li>
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_Shipment.html>Shipment</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_Statement.html>Statement</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_TimeTrack.html>Time tracking</a>
-</li>
-
-
-<li>
-  <a href="http://developer.accountingsuite.com/Document_WarehouseTransfer.html>Warehouse transfer</a>
-</li>
-
-  </ul></li>    
- <li><a href="http://developer.accountingsuite.com/Editing.html><strong><u>Editing and deleting entries</u></strong></a>
-  <ul class="nav bs-sidenav">
-
-<li>
-  <a href="http://developer.accountingsuite.com/Editing.html>Edit</a>
-</li>
-<li>
-  <a href="http://developer.accountingsuite.com/Deleting.html>Deletion</a>
-</li> 
-
-</ul></li>
-<!--    
-<li><a href="http://developer.accountingsuite.com/Metadata.html><strong><u>Metadata</u></strong></a>    
-  <ul class="nav bs-sidenav">
-
-<li>
-  <a href="http://developer.accountingsuite.com/Metadata.html>Metadata description</a>
-</li>
-</ul></li>-->
-
- </ul>
-          </div>
-        </div>
-        <div class="col-md-9" role="main">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<!--    bootstrap framework-->
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href = "./assets/css/menubar.css" rel = "stylesheet">
+    <link href = "./assets/css/pygments-manni.css" rel = "stylesheet"> 
+    <!-- <link href = "./assets/css/docs.css" rel = "stylesheet">  -->
+    <link href = "./assets/css/mainContent.css" rel = "stylesheet">
+    <title> API Doc</title>
+
+</head>
+
+<body>  
+    <div class="container">
+
+        <div class="row"> 
+
+            <!--Navigation menu-->
+            <div id = "nav-bar" class = "col-md-12"></div>
+            <div id = 'side-bar' class = "col-md-3"></div>
+            
+       
+            <!--main content-->   
+            <div class="col-md-9" role="main">
 
 
 <div class="bs-docs-section">
@@ -368,9 +43,9 @@
 
 <p>Example request:</p>
 
-<div class="container"><pre><code class="html">GET https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/Document_Statement?$format=json -H "Authorization: Basic ZGVtb0BhY2NvdW50aW5nc3VpdGUuY29tOkRlbW8yMDE2"</code></pre></div>
+<div class="pre-container"><pre><code class="html">GET https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/Document_Statement?$format=json -H "Authorization: Basic ZGVtb0BhY2NvdW50aW5nc3VpdGUuY29tOkRlbW8yMDE2"</code></pre></div>
 
-<p>Example response:</p><div class="container"><pre><code class="html"><object width="700" height="290" type="text/plain" data="objectTextFilesNew/Document_Statement_GetList.txt" border="0"
+<p>Example response:</p><div class="pre-container"><pre><code class="html"><object width="700" height="290" type="text/plain" data="objectTextFilesNew/Document_Statement_GetList.txt" border="0"
    style="overflow: hidden;">
 </object></code></pre></div>
 
@@ -380,9 +55,9 @@
 
 <p>Example requests:</p>
 
-<div class="container"><pre><code class="html">GET https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/Document_Statement(guid'63f64528-1326-11e5-80c3-002590f2d21f')?$format=json -H "Authorization: Basic ZGVtb0BhY2NvdW50aW5nc3VpdGUuY29tOkRlbW8yMDE2"</code></pre></div>
+<div class="pre-container"><pre><code class="html">GET https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/Document_Statement(guid'63f64528-1326-11e5-80c3-002590f2d21f')?$format=json -H "Authorization: Basic ZGVtb0BhY2NvdW50aW5nc3VpdGUuY29tOkRlbW8yMDE2"</code></pre></div>
 
-<p>Example response:</p><div class="container"><pre><code class="html"><object width="700" height="290" type="text/plain" data="objectTextFilesNew/Document_Statement_GetEntry.txt" border="0"
+<p>Example response:</p><div class="pre-container"><pre><code class="html"><object width="700" height="290" type="text/plain" data="objectTextFilesNew/Document_Statement_GetEntry.txt" border="0"
    style="overflow: hidden;">
 </object></code></pre></div>
 
@@ -392,15 +67,54 @@
 
 <p>Example requests:</p>
 
-<div class="container"><pre><code class="html">-X POST https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/Document_Statement?$format=json -H "Authorization: Basic ZGVtb0BhY2NvdW50aW5nc3VpdGUuY29tOkRlbW8yMDE2"</code></pre></div>
-<p>Body:</p><div class="container"><pre><code class="html"><object width="700" type="text/plain" data="objectTextFilesNew/Document_Statement_CreateEntryBody.txt" border="0"
+<div class="pre-container"><pre><code class="html">-X POST https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/Document_Statement?$format=json -H "Authorization: Basic ZGVtb0BhY2NvdW50aW5nc3VpdGUuY29tOkRlbW8yMDE2"</code></pre></div>
+<p>Body:</p><div class="pre-container"><pre><code class="html"><object width="700" type="text/plain" data="objectTextFilesNew/Document_Statement_CreateEntryBody.txt" border="0"
    style="overflow: hidden;">
 </object>
 </code></pre></div>
 
-<p>Example response:</p><div class="container"><pre><code class="html"><object width="700" height="290" type="text/plain" data="objectTextFilesNew/Document_Statement_CreateEntryResponse.txt" border="0"
+<p>Example response:</p><div class="pre-container"><pre><code class="html"><object width="700" height="290" type="text/plain" data="objectTextFilesNew/Document_Statement_CreateEntryResponse.txt" border="0"
    style="overflow: hidden;">
 </object></code></pre></div>
 </div></div></div>
+        
+
+<!-- script     -->
+    <script type="text/javascript">
+    var pages= ['overview.html'];
+    // var new_pages = [];
+    $main = $('#main-content');
+    $(document).ready(function(){
+        $('#nav-bar').load('header.html',function(){console.log('header loaded')});
+        $('#side-bar').load('sidebar.html',function(){console.log('nav loaded')});
+
+        doLoad =  function () {
+            if(pages.length > 0) {
+              // use shift to get the next page off the array
+              $.get(pages.shift(), function(content) {
+                  // append content to .main
+                  var content = $main.append(content);
+                  // new_pages.push(content);
+                  // call do load to get the next entry
+                  doLoad();
+                  console.log('content loaded');
+              });
+        }
+    };
+
+    doLoad();
+    });
+    
+    </script>
+        
+    <script>
+        var height = $('#main-content').height();
+        console.log(height);
+        var side_bar_height = $('#side-bar').height(height);
+        console.log(side_bar_height);
+    </script>        
+            
+            
+            
   </body>
 </html>
