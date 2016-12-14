@@ -1,0 +1,24 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Document_SalesTaxPayment",
+"value": [{
+"Ref_Key": "40de2ee9-4824-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAJqllo=",
+"DeletionMark": false,
+"Number": "000001",
+"Date": "2015-08-21T09:47:05",
+"Posted": true,
+"BankAccount_Key": "4f84a162-0081-11e3-8b49-bab74d291c34",
+"SalesTaxAgency_Key": "e5e8155f-d578-11e3-8dc9-fe4f72aefe5e",
+"TaxPeriodEnding": "2015-08-28T00:00:00",
+"AccountingBasis": "Accrual",
+"Payment": 70.5,
+"MadeAdjustment": false,
+"AdjustmentAmount": 0,
+"AdjustmentReason": "",
+"AdjustmentAccount_Key": "00000000-0000-0000-0000-000000000000",
+"TotalPayment": 70.5,
+"Memo": "",
+"BankAccount@navigationLinkUrl": "Document_SalesTaxPayment(guid'40de2ee9-4824-11e5-80c5-002590f2d221')/BankAccount",
+"SalesTaxAgency@navigationLinkUrl": "Document_SalesTaxPayment(guid'40de2ee9-4824-11e5-80c5-002590f2d221')/SalesTaxAgency"
+}]
+}

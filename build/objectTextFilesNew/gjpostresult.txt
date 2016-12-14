@@ -1,0 +1,49 @@
+{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100515/odata/standard.odata/$metadata#Document_GeneralJournalEntry/@Element",
+"Ref_Key": "e2100c14-2f16-11e5-80d1-0cc47a07f049",
+"Adjusting": false,
+"Number": "1155",
+"DoNotReconcile": false,
+"gh_source": "",
+"Date": "2015-07-07T17:30:53",
+"Currency_Key": "699dbade-b7d9-4a89-b00c-90e77202052c",
+"ExchangeRate": 1,
+"DataVersion": "",
+"DocumentTotalRC": 250,
+"DeletionMark": false,
+"VoidingEntry": "",
+"VoidingEntry_Type": "StandardODATA.Undefined",
+"DocumentTotal": 250,
+"ARorAP": "",
+"Memo": "",
+"LineItems": [
+{
+"LineNumber": "1",
+"Account_Key": "b273a2b6-1e08-481f-8a58-9948213aa2d1",
+"AmountDr": 250,
+"AmountCr": 0,
+"Memo": "",
+"Company_Key": "00000000-0000-0000-0000-000000000000",
+"Class_Key": "00000000-0000-0000-0000-000000000000",
+"Project_Key": "00000000-0000-0000-0000-000000000000",
+"VoidedEntry": "",
+"VoidedEntry_Type": "StandardODATA.Undefined"
+},
+{
+"LineNumber": "2",
+"Account_Key": "b1480a8a-1c21-4181-b58e-35cfefae2f33",
+"AmountDr": 0,
+"AmountCr": 250,
+"Memo": "",
+"Company_Key": "00000000-0000-0000-0000-000000000000",
+"Class_Key": "00000000-0000-0000-0000-000000000000",
+"Project_Key": "00000000-0000-0000-0000-000000000000",
+"VoidedEntry": "",
+"VoidedEntry_Type": "StandardODATA.Undefined"
+}
+],
+"Posted": true,
+"DueDate": "2015-07-07T00:00:00",
+"gh_descr": "",
+"Currency@navigationLinkUrl": "Document_GeneralJournalEntry(guid'e2100c14-2f16-11e5-80d1-0cc47a07f049')/Currency"
+}

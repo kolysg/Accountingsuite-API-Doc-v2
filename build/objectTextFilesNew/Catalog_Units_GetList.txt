@@ -1,0 +1,314 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Catalog_Units",
+"value": [{
+"Ref_Key": "14c726e8-7b52-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAACUwoQ=",
+"DeletionMark": false,
+"Owner_Key": "06504bf2-2504-11e4-b41e-22000ae50b89",
+"Code": "each",
+"Description": "each",
+"BaseUnit": false,
+"Factor": 100,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'14c726e8-7b52-11e4-80c3-002590f2d21f')/Owner"
+},{
+"Ref_Key": "fbe26f22-8273-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAACUwoU=",
+"DeletionMark": false,
+"Owner_Key": "06504be8-2504-11e4-b41e-22000ae50b89",
+"Code": "HR",
+"Description": "Hour",
+"BaseUnit": false,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'fbe26f22-8273-11e4-80c3-002590f2d21f')/Owner"
+},{
+"Ref_Key": "cd8d949a-8279-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAACUwoY=",
+"DeletionMark": false,
+"Owner_Key": "06504bee-2504-11e4-b41e-22000ae50b89",
+"Code": "QT",
+"Description": "Quart",
+"BaseUnit": false,
+"Factor": 32,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'cd8d949a-8279-11e4-80c3-002590f2d21f')/Owner"
+},{
+"Ref_Key": "d8d68e0f-8ff2-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAACUwoc=",
+"DeletionMark": false,
+"Owner_Key": "d8d68e0e-8ff2-11e4-80c3-002590f2d21f",
+"Code": "bottl",
+"Description": "bottle",
+"BaseUnit": true,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'd8d68e0f-8ff2-11e4-80c3-002590f2d21f')/Owner"
+},{
+"Ref_Key": "d8d68e10-8ff2-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAACUwog=",
+"DeletionMark": false,
+"Owner_Key": "d8d68e0e-8ff2-11e4-80c3-002590f2d21f",
+"Code": "box12",
+"Description": "box12",
+"BaseUnit": false,
+"Factor": 12,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'd8d68e10-8ff2-11e4-80c3-002590f2d21f')/Owner"
+},{
+"Ref_Key": "29dad3e2-a409-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAACUwok=",
+"DeletionMark": false,
+"Owner_Key": "29dad3e1-a409-11e4-80c3-002590f2d21f",
+"Code": "NOS",
+"Description": "Number of Students",
+"BaseUnit": true,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'29dad3e2-a409-11e4-80c3-002590f2d21f')/Owner"
+},{
+"Ref_Key": "df03b164-356d-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAE3btQ=",
+"DeletionMark": false,
+"Owner_Key": "06504be8-2504-11e4-b41e-22000ae50b89",
+"Code": "-1",
+"Description": "-1",
+"BaseUnit": false,
+"Factor": 0,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'df03b164-356d-11e5-80c5-002590f2d221')/Owner"
+},{
+"Ref_Key": "a910b44b-b3ce-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAJ1PjM=",
+"DeletionMark": false,
+"Owner_Key": "06504bf0-2504-11e4-b41e-22000ae50b89",
+"Code": "ea",
+"Description": "each",
+"BaseUnit": false,
+"Factor": 10,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'a910b44b-b3ce-11e5-80c5-002590f2d221')/Owner"
+},{
+"Ref_Key": "b98943bc-b3ce-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAALZxvI=",
+"DeletionMark": false,
+"Owner_Key": "06504be6-2504-11e4-b41e-22000ae50b89",
+"Code": "ea",
+"Description": "each",
+"BaseUnit": false,
+"Factor": 0.08,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'b98943bc-b3ce-11e5-80c5-002590f2d221')/Owner"
+},{
+"Ref_Key": "989a7ed4-b3d0-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAJ1Pm8=",
+"DeletionMark": false,
+"Owner_Key": "989a7ed3-b3d0-11e5-80c5-002590f2d221",
+"Code": "Ea",
+"Description": "Each",
+"BaseUnit": true,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'989a7ed4-b3d0-11e5-80c5-002590f2d221')/Owner"
+},{
+"Ref_Key": "a4df2fb9-b3d0-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAJ1PnE=",
+"DeletionMark": false,
+"Owner_Key": "989a7ed3-b3d0-11e5-80c5-002590f2d221",
+"Code": "cs",
+"Description": "Case",
+"BaseUnit": false,
+"Factor": 24,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'a4df2fb9-b3d0-11e5-80c5-002590f2d221')/Owner"
+},{
+"Ref_Key": "e40e8c00-b3ef-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAALbFNs=",
+"DeletionMark": false,
+"Owner_Key": "06504be4-2504-11e4-b41e-22000ae50b89",
+"Code": "Cs",
+"Description": "Case",
+"BaseUnit": false,
+"Factor": 10,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'e40e8c00-b3ef-11e5-80c5-002590f2d221')/Owner"
+},{
+"Ref_Key": "a9e82bca-c45c-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAKnrrk=",
+"DeletionMark": false,
+"Owner_Key": "a9e82bc9-c45c-11e5-80c5-002590f2d221",
+"Code": "Block",
+"Description": "Block",
+"BaseUnit": true,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'a9e82bca-c45c-11e5-80c5-002590f2d221')/Owner"
+},{
+"Ref_Key": "54d14d81-c470-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAKnb78=",
+"DeletionMark": false,
+"Owner_Key": "54d14d80-c470-11e5-80c5-002590f2d221",
+"Code": "FT",
+"Description": "Feet",
+"BaseUnit": true,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'54d14d81-c470-11e5-80c5-002590f2d221')/Owner"
+},{
+"Ref_Key": "2cfaea71-da68-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAALZx3E=",
+"DeletionMark": false,
+"Owner_Key": "06504be8-2504-11e4-b41e-22000ae50b89",
+"Code": "dz",
+"Description": "Dozen",
+"BaseUnit": false,
+"Factor": 12,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'2cfaea71-da68-11e5-80c5-002590f2d221')/Owner"
+},{
+"Ref_Key": "94bc7fc3-da68-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAALZyAs=",
+"DeletionMark": false,
+"Owner_Key": "06504be6-2504-11e4-b41e-22000ae50b89",
+"Code": "bx",
+"Description": "Box",
+"BaseUnit": false,
+"Factor": 0.08,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'94bc7fc3-da68-11e5-80c5-002590f2d221')/Owner"
+},{
+"Ref_Key": "4ae9afcc-34ae-11e6-80d8-0cc47ac0d6e3",
+"DataVersion": "AAAAAAPTarg=",
+"DeletionMark": false,
+"Owner_Key": "4ae9afcb-34ae-11e6-80d8-0cc47ac0d6e3",
+"Code": "SQICH",
+"Description": "Square Inches",
+"BaseUnit": true,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'4ae9afcc-34ae-11e6-80d8-0cc47ac0d6e3')/Owner"
+},{
+"Ref_Key": "5c3481fc-34ae-11e6-80d8-0cc47ac0d6e3",
+"DataVersion": "AAAAAAPTaro=",
+"DeletionMark": false,
+"Owner_Key": "4ae9afcb-34ae-11e6-80d8-0cc47ac0d6e3",
+"Code": "SQFT",
+"Description": "Square Foot",
+"BaseUnit": false,
+"Factor": 144,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'5c3481fc-34ae-11e6-80d8-0cc47ac0d6e3')/Owner"
+},{
+"Ref_Key": "74e955ff-34ae-11e6-80d8-0cc47ac0d6e3",
+"DataVersion": "AAAAAAPTarw=",
+"DeletionMark": false,
+"Owner_Key": "4ae9afcb-34ae-11e6-80d8-0cc47ac0d6e3",
+"Code": "SQYRD",
+"Description": "Square Yard",
+"BaseUnit": false,
+"Factor": 432,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'74e955ff-34ae-11e6-80d8-0cc47ac0d6e3')/Owner"
+},{
+"Ref_Key": "06504be1-2504-11e4-b41e-22000ae50b89",
+"DataVersion": "AAAAAACUwoo=",
+"DeletionMark": false,
+"Owner_Key": "06504be0-2504-11e4-b41e-22000ae50b89",
+"Code": "Bags",
+"Description": "Bags",
+"BaseUnit": true,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'06504be1-2504-11e4-b41e-22000ae50b89')/Owner"
+},{
+"Ref_Key": "06504be3-2504-11e4-b41e-22000ae50b89",
+"DataVersion": "AAAAAACUwos=",
+"DeletionMark": false,
+"Owner_Key": "06504be2-2504-11e4-b41e-22000ae50b89",
+"Code": "Cans",
+"Description": "Cans",
+"BaseUnit": true,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'06504be3-2504-11e4-b41e-22000ae50b89')/Owner"
+},{
+"Ref_Key": "06504be5-2504-11e4-b41e-22000ae50b89",
+"DataVersion": "AAAAAALaZe8=",
+"DeletionMark": false,
+"Owner_Key": "06504be4-2504-11e4-b41e-22000ae50b89",
+"Code": "bx",
+"Description": "Box",
+"BaseUnit": true,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'06504be5-2504-11e4-b41e-22000ae50b89')/Owner"
+},{
+"Ref_Key": "06504be7-2504-11e4-b41e-22000ae50b89",
+"DataVersion": "AAAAAACUwo0=",
+"DeletionMark": false,
+"Owner_Key": "06504be6-2504-11e4-b41e-22000ae50b89",
+"Code": "Dozen",
+"Description": "Dozen",
+"BaseUnit": true,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'06504be7-2504-11e4-b41e-22000ae50b89')/Owner"
+},{
+"Ref_Key": "06504be9-2504-11e4-b41e-22000ae50b89",
+"DataVersion": "AAAAAAKnYx8=",
+"DeletionMark": false,
+"Owner_Key": "06504be8-2504-11e4-b41e-22000ae50b89",
+"Code": "Each",
+"Description": "Each",
+"BaseUnit": true,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'06504be9-2504-11e4-b41e-22000ae50b89')/Owner"
+},{
+"Ref_Key": "06504beb-2504-11e4-b41e-22000ae50b89",
+"DataVersion": "AAAAAACUwo8=",
+"DeletionMark": false,
+"Owner_Key": "06504bea-2504-11e4-b41e-22000ae50b89",
+"Code": "hour",
+"Description": "hour",
+"BaseUnit": true,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'06504beb-2504-11e4-b41e-22000ae50b89')/Owner"
+},{
+"Ref_Key": "06504bed-2504-11e4-b41e-22000ae50b89",
+"DataVersion": "AAAAAACUwpA=",
+"DeletionMark": false,
+"Owner_Key": "06504bec-2504-11e4-b41e-22000ae50b89",
+"Code": "Hours",
+"Description": "Hours",
+"BaseUnit": true,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'06504bed-2504-11e4-b41e-22000ae50b89')/Owner"
+},{
+"Ref_Key": "06504bef-2504-11e4-b41e-22000ae50b89",
+"DataVersion": "AAAAAACUwpE=",
+"DeletionMark": false,
+"Owner_Key": "06504bee-2504-11e4-b41e-22000ae50b89",
+"Code": "Ounce",
+"Description": "Ounces",
+"BaseUnit": true,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'06504bef-2504-11e4-b41e-22000ae50b89')/Owner"
+},{
+"Ref_Key": "06504bf1-2504-11e4-b41e-22000ae50b89",
+"DataVersion": "AAAAAACUwpI=",
+"DeletionMark": false,
+"Owner_Key": "06504bf0-2504-11e4-b41e-22000ae50b89",
+"Code": "pack ",
+"Description": "pack of 10",
+"BaseUnit": true,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'06504bf1-2504-11e4-b41e-22000ae50b89')/Owner"
+},{
+"Ref_Key": "06504bf3-2504-11e4-b41e-22000ae50b89",
+"DataVersion": "AAAAAACUwpM=",
+"DeletionMark": false,
+"Owner_Key": "06504bf2-2504-11e4-b41e-22000ae50b89",
+"Code": "Pack ",
+"Description": "Pack of 100",
+"BaseUnit": true,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'06504bf3-2504-11e4-b41e-22000ae50b89')/Owner"
+},{
+"Ref_Key": "06504bf5-2504-11e4-b41e-22000ae50b89",
+"DataVersion": "AAAAAACUwpQ=",
+"DeletionMark": false,
+"Owner_Key": "06504bf4-2504-11e4-b41e-22000ae50b89",
+"Code": "piece",
+"Description": "piece",
+"BaseUnit": true,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'06504bf5-2504-11e4-b41e-22000ae50b89')/Owner"
+},{
+"Ref_Key": "06504bf7-2504-11e4-b41e-22000ae50b89",
+"DataVersion": "AAAAAACUwpU=",
+"DeletionMark": false,
+"Owner_Key": "06504bf6-2504-11e4-b41e-22000ae50b89",
+"Code": "Pound",
+"Description": "Pounds",
+"BaseUnit": true,
+"Factor": 1,
+"Owner@navigationLinkUrl": "Catalog_Units(guid'06504bf7-2504-11e4-b41e-22000ae50b89')/Owner"
+}]
+}

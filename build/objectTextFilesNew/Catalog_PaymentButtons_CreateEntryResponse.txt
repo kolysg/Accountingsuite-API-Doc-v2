@@ -1,0 +1,9 @@
+﻿{
+"odata.error": {
+"code": "-1",
+"message": {
+"lang": "en",
+"value": "Unexpected token during JSON reading"
+}
+}
+}

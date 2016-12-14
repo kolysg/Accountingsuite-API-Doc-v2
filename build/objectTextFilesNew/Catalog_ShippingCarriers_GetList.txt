@@ -1,0 +1,46 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Catalog_ShippingCarriers",
+"value": [{
+"Ref_Key": "8c7dec3f-03d9-11e5-80c3-002590f2d21f",
+"DataVersion": "AAAAAAJBEt8=",
+"DeletionMark": false,
+"Description": "COD",
+"IntegrationWithShipStationCom": false,
+"ShipStationCode": ""
+},{
+"Ref_Key": "b4f53c4d-45c1-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAJBEuA=",
+"DeletionMark": false,
+"Description": "Will Call",
+"IntegrationWithShipStationCom": false,
+"ShipStationCode": ""
+},{
+"Ref_Key": "0f89b4d2-a393-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAJBEuE=",
+"DeletionMark": false,
+"Description": "UPS LTL",
+"IntegrationWithShipStationCom": false,
+"ShipStationCode": ""
+},{
+"Ref_Key": "601edde0-cb95-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAK3aNw=",
+"DeletionMark": false,
+"Description": "Stamps.com",
+"IntegrationWithShipStationCom": true,
+"ShipStationCode": "stamps_com"
+},{
+"Ref_Key": "601edde1-cb95-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAK3aMs=",
+"DeletionMark": false,
+"Description": "UPS",
+"IntegrationWithShipStationCom": true,
+"ShipStationCode": "ups"
+},{
+"Ref_Key": "52b95dd9-f03b-11e3-944e-22000ac73cba",
+"DataVersion": "AAAAAAJBEuI=",
+"DeletionMark": false,
+"Description": "UPS",
+"IntegrationWithShipStationCom": false,
+"ShipStationCode": ""
+}]
+}

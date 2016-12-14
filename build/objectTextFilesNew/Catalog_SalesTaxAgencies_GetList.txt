@@ -1,0 +1,34 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Catalog_SalesTaxAgencies",
+"value": [{
+"Ref_Key": "4ac976f3-bd41-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAACQJmc=",
+"DeletionMark": false,
+"Description": "San Francisco CITY"
+},{
+"Ref_Key": "49e4d500-fe70-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAAD8IG0=",
+"DeletionMark": false,
+"Description": "Colorado"
+},{
+"Ref_Key": "effbbd30-190c-11e5-80c4-002590f2d221",
+"DataVersion": "AAAAAAEND1A=",
+"DeletionMark": false,
+"Description": "Canadian Government"
+},{
+"Ref_Key": "81754c13-5cbf-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAGNlUs=",
+"DeletionMark": false,
+"Description": "FL Tax Agency"
+},{
+"Ref_Key": "914750d9-5cbf-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAGNl/M=",
+"DeletionMark": false,
+"Description": "WI tax agency"
+},{
+"Ref_Key": "e5e8155f-d578-11e3-8dc9-fe4f72aefe5e",
+"DataVersion": "AAAAAAEVfLI=",
+"DeletionMark": false,
+"Description": "Board of Equalization"
+}]
+}

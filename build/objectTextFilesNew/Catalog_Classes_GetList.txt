@@ -1,0 +1,60 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Catalog_Classes",
+"value": [{
+"Ref_Key": "a58bd490-607b-11e3-8058-e3003205b13a",
+"DataVersion": "AAAAAAACfr0=",
+"DeletionMark": false,
+"Parent_Key": "00000000-0000-0000-0000-000000000000",
+"Code": "00001",
+"Description": "Food"
+},{
+"Ref_Key": "dfe9a6cb-5885-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAAACfr4=",
+"DeletionMark": false,
+"Parent_Key": "00000000-0000-0000-0000-000000000000",
+"Code": "00002",
+"Description": "Marketing & Promotion"
+},{
+"Ref_Key": "bc84d087-b7ca-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAACNiVE=",
+"DeletionMark": false,
+"Parent_Key": "00000000-0000-0000-0000-000000000000",
+"Code": "00003",
+"Description": "Music Business"
+},{
+"Ref_Key": "dcce7b40-6de0-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAG8YdI=",
+"DeletionMark": false,
+"Parent_Key": "00000000-0000-0000-0000-000000000000",
+"Code": "00004",
+"Description": "Custom Work"
+},{
+"Ref_Key": "48afab84-711d-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAHDq0I=",
+"DeletionMark": false,
+"Parent_Key": "00000000-0000-0000-0000-000000000000",
+"Code": "00005",
+"Description": "1456-1045"
+},{
+"Ref_Key": "32edf6f6-738f-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAHKSG4=",
+"DeletionMark": false,
+"Parent_Key": "00000000-0000-0000-0000-000000000000",
+"Code": "00006",
+"Description": "BAR"
+},{
+"Ref_Key": "3aa13295-738f-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAHKSHA=",
+"DeletionMark": false,
+"Parent_Key": "00000000-0000-0000-0000-000000000000",
+"Code": "00007",
+"Description": "RESTAURANT"
+},{
+"Ref_Key": "bdc77a24-e0ad-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAALsRJo=",
+"DeletionMark": false,
+"Parent_Key": "00000000-0000-0000-0000-000000000000",
+"Code": "00008",
+"Description": "Product"
+}]
+}

@@ -1,0 +1,19 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Catalog_Locations/@Element",
+"Ref_Key": "ef238ed2-7b51-11e4-80c3-002590f2d21f",
+"ZIP": "",
+"Notes": "",
+"DeletionMark": false,
+"AddressLine1": "",
+"Default": false,
+"AddressValidated": false,
+"AddressLine3": "",
+"City": "",
+"Description": "bin 3",
+"DataVersion": "",
+"AddressLine2": "",
+"Country_Key": "00000000-0000-0000-0000-000000000000",
+"State_Key": "00000000-0000-0000-0000-000000000000",
+"Parent_Key": "12e27f12-00b9-11e3-8b49-bab74d291c34",
+"Parent@navigationLinkUrl": "Catalog_Locations(guid'ef238ed2-7b51-11e4-80c3-002590f2d21f')/Parent"
+}

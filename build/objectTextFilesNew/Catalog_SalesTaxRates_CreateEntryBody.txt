@@ -1,0 +1,7 @@
+﻿{
+"Code":"48520",
+"Description":"Test8520", 
+"Rate": 0,
+"DataVersion": "",
+"Agency_Key": "00000000-0000-0000-0000-000000000000",
+"SalesTaxComponent_Key": "00000000-0000-0000-0000-000000000000",}

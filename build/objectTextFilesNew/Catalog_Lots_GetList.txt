@@ -1,0 +1,172 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Catalog_Lots",
+"value": [{
+"Ref_Key": "154743b7-defc-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAACy6aE=",
+"DeletionMark": false,
+"Owner": "154743b6-defc-11e4-80c3-002590f2d21f",
+"Owner_Type": "StandardODATA.Catalog_Characteristics",
+"Code": "red",
+"ExpirationDate": "0001-01-01T00:00:00"
+},{
+"Ref_Key": "154743b8-defc-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAACy6aM=",
+"DeletionMark": false,
+"Owner": "154743b6-defc-11e4-80c3-002590f2d21f",
+"Owner_Type": "StandardODATA.Catalog_Characteristics",
+"Code": "blue",
+"ExpirationDate": "0001-01-01T00:00:00"
+},{
+"Ref_Key": "68d29477-defc-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAACy6a0=",
+"DeletionMark": false,
+"Owner": "668585a8-2b77-11e3-827d-af4343366b37",
+"Owner_Type": "StandardODATA.Catalog_Products",
+"Code": "98438943XK",
+"ExpirationDate": "0001-01-01T00:00:00"
+},{
+"Ref_Key": "46ba768b-f415-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAADF+NM=",
+"DeletionMark": false,
+"Owner": "17617528-ea07-11e4-80c3-002590f2d21f",
+"Owner_Type": "StandardODATA.Catalog_Products",
+"Code": "45",
+"ExpirationDate": "0001-01-01T00:00:00"
+},{
+"Ref_Key": "7dc38801-f415-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAADF+No=",
+"DeletionMark": false,
+"Owner": "ade8bb95-3c17-11e3-827d-af4343366b37",
+"Owner_Type": "StandardODATA.Catalog_Products",
+"Code": "20150504",
+"ExpirationDate": "2015-05-11T00:00:00"
+},{
+"Ref_Key": "851186b9-f415-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAADF+Nw=",
+"DeletionMark": false,
+"Owner": "ade8bb95-3c17-11e3-827d-af4343366b37",
+"Owner_Type": "StandardODATA.Catalog_Products",
+"Code": "20150512",
+"ExpirationDate": "2015-05-19T00:00:00"
+},{
+"Ref_Key": "c6e1d0a1-f415-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAADF+O8=",
+"DeletionMark": false,
+"Owner": "ade8bb95-3c17-11e3-827d-af4343366b37",
+"Owner_Type": "StandardODATA.Catalog_Products",
+"Code": "20150429",
+"ExpirationDate": "2015-05-06T00:00:00"
+},{
+"Ref_Key": "7f7ba1f9-fa6a-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAAD5jpE=",
+"DeletionMark": false,
+"Owner": "14c7fee4-fa6a-11e4-80c3-002590f2d21f",
+"Owner_Type": "StandardODATA.Catalog_Products",
+"Code": "4565465",
+"ExpirationDate": "0001-01-01T00:00:00"
+},{
+"Ref_Key": "860cd600-fa6b-11e4-80c3-002590f2d21f",
+"DataVersion": "AAAAAAD5juI=",
+"DeletionMark": false,
+"Owner": "7728389c-fa6b-11e4-80c3-002590f2d21f",
+"Owner_Type": "StandardODATA.Catalog_Products",
+"Code": "4565465",
+"ExpirationDate": "0001-01-01T00:00:00"
+},{
+"Ref_Key": "c03df245-3fa5-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAFHBfI=",
+"DeletionMark": false,
+"Owner": "53dd07fd-66b0-11e4-80c3-002590f2d21f",
+"Owner_Type": "StandardODATA.Catalog_Products",
+"Code": "123456789",
+"ExpirationDate": "0001-01-01T00:00:00"
+},{
+"Ref_Key": "d9a0db1c-513e-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAF3ddE=",
+"DeletionMark": false,
+"Owner": "d9a0db1b-513e-11e5-80c5-002590f2d221",
+"Owner_Type": "StandardODATA.Catalog_Characteristics",
+"Code": "X",
+"ExpirationDate": "0001-01-01T00:00:00"
+},{
+"Ref_Key": "d9a0db1d-513e-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAF3ddM=",
+"DeletionMark": false,
+"Owner": "d9a0db1b-513e-11e5-80c5-002590f2d221",
+"Owner_Type": "StandardODATA.Catalog_Characteristics",
+"Code": "L",
+"ExpirationDate": "0001-01-01T00:00:00"
+},{
+"Ref_Key": "4d558fde-513f-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAF3ddw=",
+"DeletionMark": false,
+"Owner": "4d558fdd-513f-11e5-80c5-002590f2d221",
+"Owner_Type": "StandardODATA.Catalog_Characteristics",
+"Code": "red:XL",
+"ExpirationDate": "0001-01-01T00:00:00"
+},{
+"Ref_Key": "548490bd-513f-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAF3dd4=",
+"DeletionMark": false,
+"Owner": "4d558fdd-513f-11e5-80c5-002590f2d221",
+"Owner_Type": "StandardODATA.Catalog_Characteristics",
+"Code": "blue:S",
+"ExpirationDate": "0001-01-01T00:00:00"
+},{
+"Ref_Key": "5e41c329-6228-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAGWjW8=",
+"DeletionMark": false,
+"Owner": "1d7d626f-6228-11e5-80c5-002590f2d221",
+"Owner_Type": "StandardODATA.Catalog_Products",
+"Code": "965486",
+"ExpirationDate": "0001-01-01T00:00:00"
+},{
+"Ref_Key": "6a8033ac-88c4-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAAH+CFI=",
+"DeletionMark": false,
+"Owner": "45c2c33e-88c4-11e5-80c5-002590f2d221",
+"Owner_Type": "StandardODATA.Catalog_Products",
+"Code": "104",
+"ExpirationDate": "0001-01-01T00:00:00"
+},{
+"Ref_Key": "709c1185-d1ef-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAALFiYk=",
+"DeletionMark": false,
+"Owner": "bb6d848a-7b49-11e5-80c5-002590f2d221",
+"Owner_Type": "StandardODATA.Catalog_Products",
+"Code": "20160219",
+"ExpirationDate": "2016-02-19T00:00:00"
+},{
+"Ref_Key": "db12e7c0-d6a7-11e5-80c5-002590f2d221",
+"DataVersion": "AAAAAALROs8=",
+"DeletionMark": false,
+"Owner": "db12e7bf-d6a7-11e5-80c5-002590f2d221",
+"Owner_Type": "StandardODATA.Catalog_Characteristics",
+"Code": "50",
+"ExpirationDate": "0001-01-01T00:00:00"
+},{
+"Ref_Key": "515ae3b1-f6a6-11e5-80c7-002590f2d21f",
+"DataVersion": "AAAAAANB9XE=",
+"DeletionMark": false,
+"Owner": "bb6d848a-7b49-11e5-80c5-002590f2d221",
+"Owner_Type": "StandardODATA.Catalog_Products",
+"Code": "20160331",
+"ExpirationDate": "2016-03-31T00:00:00"
+},{
+"Ref_Key": "10457758-1898-11e6-80c7-002590f2d21f",
+"DataVersion": "AAAAAAOfIQM=",
+"DeletionMark": false,
+"Owner": "f42f8548-cf41-11e5-80c5-002590f2d221",
+"Owner_Type": "StandardODATA.Catalog_Products",
+"Code": "20160504",
+"ExpirationDate": "2016-05-04T00:00:00"
+},{
+"Ref_Key": "1e094c58-1898-11e6-80c7-002590f2d21f",
+"DataVersion": "AAAAAAOfIUA=",
+"DeletionMark": false,
+"Owner": "f42f8548-cf41-11e5-80c5-002590f2d221",
+"Owner_Type": "StandardODATA.Catalog_Products",
+"Code": "20160507",
+"ExpirationDate": "2016-05-07T00:00:00"
+}]
+}

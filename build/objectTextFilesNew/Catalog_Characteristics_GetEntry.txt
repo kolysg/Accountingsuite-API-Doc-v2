@@ -1,0 +1,8 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Catalog_Characteristics/@Element",
+"Ref_Key": "154743b6-defc-11e4-80c3-002590f2d21f",
+"Code": "001",
+"DeletionMark": false,
+"DataVersion": "",
+"Description": "color"
+}

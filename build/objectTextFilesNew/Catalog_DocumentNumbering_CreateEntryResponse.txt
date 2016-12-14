@@ -1,0 +1,9 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Catalog_DocumentNumbering/@Element",
+"DataVersion": "",
+"Description": "Test8510",
+"Code": "48510",
+"DeletionMark": false,
+"Ref_Key": "316d0483-3f01-11e6-80d8-0cc47ac0d6e3",
+"Number": "00194"
+}

@@ -1,0 +1,7 @@
+﻿{
+"Code":"48514",
+"Description":"Test8514", 
+"Days": "0",
+"DataVersion": "",
+"DiscountPercent": 0
+}

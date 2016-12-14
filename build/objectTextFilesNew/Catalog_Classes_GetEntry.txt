@@ -1,0 +1,9 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Catalog_Classes/@Element",
+"Ref_Key": "a58bd490-607b-11e3-8058-e3003205b13a",
+"Description": "Food",
+"Code": "00001",
+"DeletionMark": false,
+"DataVersion": "",
+"Parent_Key": "00000000-0000-0000-0000-000000000000"
+}

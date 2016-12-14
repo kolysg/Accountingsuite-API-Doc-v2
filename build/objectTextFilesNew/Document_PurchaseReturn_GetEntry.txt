@@ -1,0 +1,41 @@
+﻿{
+"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Document_PurchaseReturn/@Element",
+"Ref_Key": "08721ce9-f2ee-11e4-80c3-002590f2d21f",
+"ReturnType": "Refund",
+"Date": "2015-05-04T23:14:49",
+"APAccount_Key": "a90fd0c8-e271-11e2-960c-22000ac508d9",
+"DataVersion": "",
+"DueDate": "0001-01-01T00:00:00",
+"Location_Key": "ca89c960-e279-11e2-960c-22000ac508d9",
+"Number": "000006",
+"DeletionMark": false,
+"ExchangeRate": 1,
+"URL": "",
+"Posted": true,
+"RefNum": "",
+"Currency_Key": "a90fd0d1-e271-11e2-960c-22000ac508d9",
+"Memo": "",
+"ManualAdjustment": false,
+"Company_Key": "63178162-0082-11e3-8b49-bab74d291c34",
+"ParentDocument": "",
+"ParentDocument_Type": "StandardODATA.Undefined",
+"DocumentTotalRC": 495,
+"LineItems": [
+{
+"LineNumber": "1",
+"Product_Key": "74f0eda8-2b77-11e3-827d-af4343366b37",
+"ProductDescription": "color",
+"UnitSet_Key": "06504be8-2504-11e4-b41e-22000ae50b89",
+"QtyUnits": 5,
+"Unit_Key": "06504be9-2504-11e4-b41e-22000ae50b89",
+"QtyUM": 5,
+"PriceUnits": 99,
+"LineTotal": 495
+}
+],
+"DocumentTotal": 495,
+"Location@navigationLinkUrl": "Document_PurchaseReturn(guid'08721ce9-f2ee-11e4-80c3-002590f2d21f')/Location",
+"Currency@navigationLinkUrl": "Document_PurchaseReturn(guid'08721ce9-f2ee-11e4-80c3-002590f2d21f')/Currency",
+"Company@navigationLinkUrl": "Document_PurchaseReturn(guid'08721ce9-f2ee-11e4-80c3-002590f2d21f')/Company",
+"APAccount@navigationLinkUrl": "Document_PurchaseReturn(guid'08721ce9-f2ee-11e4-80c3-002590f2d21f')/APAccount"
+}

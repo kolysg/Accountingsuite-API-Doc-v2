@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<!--    bootstrap framework-->
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href = "./assets/css/menubar.min.css" rel = "stylesheet">
+    <link href = "./assets/css/pygments-manni.min.css" rel = "stylesheet"> 
+    <!-- <link href = "./assets/css/docs.min.css" rel = "stylesheet">  -->
+    <link href = "./assets/css/mainContent.min.css" rel = "stylesheet">
+    <title> API Doc</title>
+
+</head>
+
+<body>  
+    <div class="container">
+
+        <div class="row"> 
+
+            <!--Navigation menu-->
+            <div id = "nav-bar" class = "col-md-12"></div>
+            <div id = 'side-bar' class = "col-md-3"></div>
+            
+       
+            <!--main content-->   
+            <div class="col-md-9" role="main">
+          <div class="bs-docs-section">
+          <div class="page-header">
+          <h1 id="Catalog_Characteristics">Characteristics</h1>
+          </div>
+
+          <br><p><b>In order to process a single object one should first read the whole list and then to pick up a certain entry from it.</b></p>
+
+          <p>To get a list of all entries of a kind: Characteristics:</p>
+
+          <p>Example request:</p>
+
+          <div class="pre-container"><pre><code class="html">GET https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/Catalog_Characteristics?$format=json -H "Authorization: Basic ZGVtb0BhY2NvdW50aW5nc3VpdGUuY29tOkRlbW8yMDE2"</code></pre></div>
+
+          <p>Example response:</p><div class="pre-container"><pre><code class="html"><object width="700" height="290" type="text/plain" data="objectTextFilesNew/Catalog_Characteristics_GetList.txt" border="0"
+             style="overflow: hidden;">
+          </object></code></pre></div>
+
+          <br><p><b>A single entry can be picked up from the list and processed by its Ref_key (a.k.a. guid). Using a guid in a query string, we command the database to call a certain entry</b></p>
+
+          <p>To get a specific object of a kind Characteristics:<p>
+
+          <p>Example requests:</p>
+
+          <div class="pre-container"><pre><code class="html">GET https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/Catalog_Characteristics(guid'154743b6-defc-11e4-80c3-002590f2d21f')?$format=json -H "Authorization: Basic ZGVtb0BhY2NvdW50aW5nc3VpdGUuY29tOkRlbW8yMDE2"</code></pre></div>
+
+          <p>Example response:</p><div class="pre-container"><pre><code class="html"><object width="700" height="290" type="text/plain" data="objectTextFilesNew/Catalog_Characteristics_GetEntry.txt" border="0"
+             style="overflow: hidden;">
+          </object></code></pre></div>
+
+          <br><p><b>To create an object, you have to pass in the BODY (-d) of the request a JSON entry with desired fields</b></p>
+
+          <p>To create an object</p>
+
+          <p>Example requests:</p>
+
+          <div class="pre-container"><pre><code class="html">-X POST https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/Catalog_Characteristics?$format=json -H "Authorization: Basic ZGVtb0BhY2NvdW50aW5nc3VpdGUuY29tOkRlbW8yMDE2"</code></pre></div>
+          <p>Body:</p><div class="pre-container"><pre><code class="html"><object width="700" type="text/plain" data="objectTextFilesNew/Catalog_Characteristics_CreateEntryBody.txt" border="0"
+             style="overflow: hidden;">
+          </object>
+          </code></pre></div>
+
+          <p>Example response:</p><div class="pre-container"><pre><code class="html"><object width="700" height="290" type="text/plain" data="objectTextFilesNew/Catalog_Characteristics_CreateEntryResponse.txt" border="0"
+             style="overflow: hidden;">
+          </object></code></pre></div>
+          </div>
+        </div>
+      </div>
+            
+    <script type="text/javascript">
+    var pages= ['overview.html'];
+    // var new_pages = [];
+    $main = $('#main-content');
+    $(document).ready(function(){
+        $('#nav-bar').load('header.html',function(){console.log('header loaded')});
+        $('#side-bar').load('sidebar.html',function(){console.log('nav loaded')});
+
+        doLoad =  function () {
+            if(pages.length > 0) {
+              // use shift to get the next page off the array
+              $.get(pages.shift(), function(content) {
+                  // append content to .main
+                  var content = $main.append(content);
+                  // new_pages.push(content);
+                  // call do load to get the next entry
+                  doLoad();
+                  console.log('content loaded');
+              });
+        }
+    };
+
+    doLoad();
+    });
+    
+    </script>
+        
+    <script>
+        var height = $('#main-content').height();
+        console.log(height);
+        var side_bar_height = $('#side-bar').height(height);
+        console.log(side_bar_height);
+    </script>        
+            
+            
+            
+  </body>
+</html>

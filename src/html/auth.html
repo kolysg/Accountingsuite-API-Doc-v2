@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<!--    bootstrap framework-->
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href = "./assets/css/menubar.min.css" rel = "stylesheet">
+    <link href = "./assets/css/pygments-manni.min.css" rel = "stylesheet"> 
+    <!-- <link href = "./assets/css/docs.min.css" rel = "stylesheet">  -->
+    <link href = "./assets/css/mainContent.min.css" rel = "stylesheet">
+    <title> API Doc</title>
+
+</head>
+
+<body>  
+    <div class="container">
+
+        <div class="row"> 
+
+            <!--Navigation menu-->
+            <div id = "nav-bar" class = "col-md-12"></div>
+            <div id = 'side-bar' class = "col-md-3"></div>
+            
+       
+            <!--main content-->   
+            <div class="col-md-9" role="main">
+
+
+  <div class="bs-docs-section">
+    <div class="page-header">
+<h1 id="auth">Authentication (OAuth 2.0)</h1>
+</div>
+
+<p><b>Register your application</b></p>
+
+<p>The first step in connecting your application with AccountingSuite is registering it. To do this make a request submitting <code>appname</code>, <code>redirect_uri</code>, and <code>apisecretkey</code> of your developer account (Settings / Development / apisecretkey). Make sure your redirect_uri starts with "http://" or "https://" to ensure it redirects to the correct url. For example:
+
+<div class="pre-container"><pre><code class="html">curl https://oauth.accountingsuite.com/register_app \
+-d '{"appname": "Rapid CRM","redirect_uri": "https://dev.company_name.com/accountingsuite_oauth", "apisecretkey": "dGmlayoUnlNcitybVTMu"}'
+</code></pre></div>
+
+<p>You will receive back your <code>client_id</code> (application ID), for example:</p>
+
+<div class="pre-container"><pre><code class="html">{"client_id": "O4JaqvBTe2YKhh3iOX2z"}</code></pre></div>
+
+<p><b>Send your users to AccountingSuite</b></p>
+
+<p>Add a Connect with AccountingSuite button to your application to link your users to our endpoint:</p>
+
+<div class="pre-container"><pre><code class="html">https://oauth.accountingsuite.com/authorize?response_type=code&client_id=O4JaqvBTe2YKhh3iOX2z&state=12345</code></pre></div>
+
+<p><i>The <code>state</code> parameter is an arbitrary string we will pass back to you, useful for CSRF protection.</i></p>
+
+<p>If a user already has an AccountingSuite account, they'll be able to give you secure access in just a few clicks. After the user connects, we'll redirect them back to the <code>redirect_uri</code> you provided:
+
+<div class="pre-container"><pre><code class="html">HTTP/1.1 302 Found
+Location: https://redirect_uri?code=knbujs4awcvux04qmf7z&tenant_id=1100515&state=12345</code></pre></div>
+
+<p>Or, if the authorization was denied, we'll include an error instead:</p>
+
+<div class="pre-container"><pre><code class="html">HTTP/1.1 302 Found
+Location: https://redirect_uri?error=access_denied&state=12345</code></pre></div>
+
+<p><b>After the user has connected</b></p>
+<p>Using the <code>code</code> parameter we sent back to your <code>redirect_uri</code> endpoint, you should make a POST request to our <code>oauth_token</code> endpoint:</p>
+
+<div class="pre-container"><pre><code class="html">curl -X POST https://oauth.accountingsuite.com/oauth_token \
+  -d client_secret=dGmlayoUnlNcitybVTMu \
+  -d client_id=O4JaqvBTe2YKhh3iOX2z \
+  -d code=knbujs4awcvux04qmf7z \
+  -d grant_type=authorization_code</code></pre></div>
+
+<p><code>client_secret</code> parameter in the request is the <code>apisecretkey</code> of your developer account.</p>
+
+<p>AccountingSuite will generate a <a href="https://www.base64encode.org" target="_blank">base64 encoding</a> of the client's api credentials. <code>base64(api:apisecretkey)</code> We return this value to you as the ACCESS_TOKEN, along with the tenant_id, which you can use for all API communications. You're done!</p>
+
+<div class="pre-container"><pre><code class="html">{
+  "token_type": "Basic",
+  "access_token": ACCESS_TOKEN,
+  "tenant_id": "1100515"
+}</code></pre></div>
+
+<div class="pre-container"><pre><code class="html">{
+  "error": "invalid_grant",
+  "error_description": "Authorization code does not exist: AUTHORIZATION_CODE"
+}</code></pre></div>
+
+<p><b>Using a Client</b></p>
+
+    <p>Sometimes, you just need an <code>apisecretkey</code> to your own account, without going through the hassle of creating an entire OAuth flow. We hear ya. You can just grab the <code>apisecretkey</code> in Settings / Development, and generate your ACCESS_TOKEN.</p>
+
+<p>This can be done by <a href="https://www.base64encode.org" target="_blank">base64 encoding</a> {api:apisecretkey}. For example, api:dGmlayoUnlNcitybVTMu will be <b>YXBpOmRHbWxheW9VbmxOY2l0eWJWVE11</b>. The key also needs the word Basic infront of the code. So the header will look like so:</p>
+
+<p><b>Authorization: Basic YXBpOmRHbWxheW9VbmxOY2l0eWJWVE11</b></p>
+</div></div></div>
+        
+
+<!-- script     -->
+    <script type="text/javascript">
+    var pages= ['overview.html'];
+    // var new_pages = [];
+    $main = $('#main-content');
+    $(document).ready(function(){
+        $('#nav-bar').load('header.html',function(){console.log('header loaded')});
+        $('#side-bar').load('sidebar.html',function(){console.log('nav loaded')});
+
+        doLoad =  function () {
+            if(pages.length > 0) {
+              // use shift to get the next page off the array
+              $.get(pages.shift(), function(content) {
+                  // append content to .main
+                  var content = $main.append(content);
+                  // new_pages.push(content);
+                  // call do load to get the next entry
+                  doLoad();
+                  console.log('content loaded');
+              });
+        }
+    };
+
+    doLoad();
+    });
+    
+    </script>
+        
+    <script>
+        var height = $('#main-content').height();
+        console.log(height);
+        var side_bar_height = $('#side-bar').height(height);
+        console.log(side_bar_height);
+    </script>        
+            
+            
+            
+  </body>
+</html>

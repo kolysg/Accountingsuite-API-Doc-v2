@@ -1,0 +1,18 @@
+﻿{"LineItems@odata.type":"Collection(StandardODATA.Catalog_Products_LineItems_RowType)",
+"LineItems":
+[
+{
+"LineNumber": "1",
+"Product_Key": "eebf3938-ba20-11e3-8dc9-fe4f72aefe5e",
+"ProductDescription": "Edited description",
+"UnitSet_Key": "fff98592-27c9-11e4-b41e-22000ae50b89",
+"QtyUnits": 2,
+"Unit_Key": "fff98593-27c9-11e4-b41e-22000ae50b89",
+"PriceUnits": 0,
+"LineTotal": 0,
+"WastePercent": 0,
+"WasteQtyUnits": 0,
+"WasteTotal": 0
+}
+]
+}
