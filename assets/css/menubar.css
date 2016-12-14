@@ -6,7 +6,7 @@ body {
 .nav-side-menu {
   /*overflow: auto;*/
   font-family: verdana;
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 200;
   background-color: #999994;
   /*position: fixed;*/
@@ -144,7 +144,6 @@ body {
 }
 
 
-
   .nav-side-menu .toggle-btn {
     display: block;
     cursor: pointer;
@@ -161,7 +160,7 @@ body {
   }
   .brand {
     text-align: left !important;
-    font-size: 22px;
+    font-size: 26px;
 
     /*padding-left: 20px;*/
     line-height: 50px !important;
