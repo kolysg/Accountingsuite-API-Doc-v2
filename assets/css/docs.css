@@ -455,6 +455,7 @@ body {
 @media screen and (min-width: 992px) {
   .bs-sidebar .nav > .active > ul {
     display: block;
+    overflow: hidden;
   }
   /* Widen the fixed sidebar */
   .bs-sidebar.affix,
