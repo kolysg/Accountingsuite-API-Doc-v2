@@ -1,6 +1,0 @@
-{
-"AccountType": "Bank",
-"Description": "Chase Bank - Checkings",
-"Code": "1080",
-"Order": "1080"
-}

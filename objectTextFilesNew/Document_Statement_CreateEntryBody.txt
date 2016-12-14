@@ -1,8 +1,0 @@
-﻿{
-"Number":"48548",
-"Date":"2016-06-30T01:29:08", 
-"MailingAddress_Key": "a00abcc7-6c0b-11e3-8058-e3003205b13a",
-"DataVersion": "",
-"Company_Key": "a00abcc6-6c0b-11e3-8058-e3003205b13a",
-"Currency_Key": "a90fd0d1-e271-11e2-960c-22000ac508d9",
-}

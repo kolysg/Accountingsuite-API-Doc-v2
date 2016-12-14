@@ -1,7 +1,0 @@
-﻿{
-"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Catalog_SalesTaxAgencies/@Element",
-"DataVersion": "",
-"DeletionMark": false,
-"Description": "San Francisco CITY",
-"Ref_Key": "4ac976f3-bd41-11e4-80c3-002590f2d21f"
-}

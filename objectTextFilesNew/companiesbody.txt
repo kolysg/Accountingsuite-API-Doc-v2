@@ -1,8 +1,0 @@
-{
-"Description": "Rolex",
-"Code": "000829",
-"Terms_Key": "494a00f8-92c0-4db6-8ad8-027c906dd3e6",
-"DefaultCurrency_Key": "699dbade-b7d9-4a89-b00c-90e77202052c",
-"Vendor": false,
-"Customer": true
-}

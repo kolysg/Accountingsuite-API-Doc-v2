@@ -1,7 +1,0 @@
-﻿{
-"Number":"48546",
-"Date":"2016-06-30T01:29:06", ,
-"value": "Cannot parse the string \"etadata\": \"https:\" as Edm.Guid!"
-}
-}
-}

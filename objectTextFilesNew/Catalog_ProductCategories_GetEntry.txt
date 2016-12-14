@@ -1,7 +1,0 @@
-﻿{
-"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Catalog_ProductCategories/@Element",
-"Ref_Key": "bceeb06a-68cf-11e3-8058-e3003205b13a",
-"DataVersion": "",
-"Description": "Antimicrobial",
-"DeletionMark": false
-}

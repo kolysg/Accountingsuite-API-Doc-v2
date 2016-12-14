@@ -1,9 +1,0 @@
-﻿{
-"odata.error": {
-"code": "8",
-"message": {
-"lang": "en",
-"value": "The Catalog_ObjectPropertyValues entity is not found"
-}
-}
-}

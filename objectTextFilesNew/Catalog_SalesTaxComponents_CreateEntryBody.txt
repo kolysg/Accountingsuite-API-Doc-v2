@@ -1,6 +1,0 @@
-﻿{
-"Code":"48519",
-"Description":"Test8519", 
-"DataVersion": "",
-"Rate": 1,
-}

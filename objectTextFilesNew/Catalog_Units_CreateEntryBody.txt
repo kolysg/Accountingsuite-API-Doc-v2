@@ -1,7 +1,0 @@
-﻿{
-"Code":"48522",
-"Description":"Test8522", 
-"DataVersion": "",
-"Owner_Key": "06504bf2-2504-11e4-b41e-22000ae50b89",
-"Factor": 100,"BaseUnit": false,
-}

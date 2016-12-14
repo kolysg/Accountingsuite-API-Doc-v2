@@ -1,6 +1,0 @@
-﻿{
-"Code":"48520",
-"Description":"Test8520", 
-"DataVersion": "",
-"ShipStationCode": ""
-}

@@ -1,8 +1,0 @@
-﻿{
-"Code":"48511",
-"Description":"Test8511", 
-"DataVersion": "",
-"Owner": "154743b6-defc-11e4-80c3-002590f2d21f",
-"Owner_Type": "StandardODATA.Catalog_Characteristics",
-"ExpirationDate": "0001-01-01T00:00:00"
-}

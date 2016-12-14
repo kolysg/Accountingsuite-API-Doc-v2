@@ -1,9 +1,0 @@
-{
-"Description": "Billing of best customer",
-"DefaultBilling": true,
-"Owner_Key": "5fa066ad-2418-11e5-80d1-0cc47a07f049",
-"Email": "labradorlover@gmail.com",
-"AddressLine1": "555 Gough St.",
-"City": "San Francisco", 
-"State_Key":"0b59b30d-c4a7-11e2-a74f-bfd4d62241c3"
-}

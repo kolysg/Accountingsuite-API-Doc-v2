@@ -1,4 +1,0 @@
-﻿{
-"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Document_LotsAdjustment",
-"value": []
-}

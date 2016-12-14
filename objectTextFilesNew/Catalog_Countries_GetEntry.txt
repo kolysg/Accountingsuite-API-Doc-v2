@@ -1,8 +1,0 @@
-﻿{
-"odata.metadata": "https://apps7.accountingsuite.com/a/1100609/odata/standard.odata/$metadata#Catalog_Countries/@Element",
-"Ref_Key": "a3e03d56-1ab4-11e3-8b49-bab74d291c34",
-"DeletionMark": false,
-"Code": "00",
-"DataVersion": "",
-"Description": "USA"
-}

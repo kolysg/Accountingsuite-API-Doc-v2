@@ -1,7 +1,0 @@
-﻿{
-"Code":"44402",
-"Description":"Test4402", 
-"DefaultReportUnit_Key": "d8d68e0f-8ff2-11e4-80c3-002590f2d21f",
-"DefaultSaleUnit_Key": "d8d68e0f-8ff2-11e4-80c3-002590f2d21f",
-"DefaultPurchaseUnit_Key": "d8d68e10-8ff2-11e4-80c3-002590f2d21f",
-}

@@ -1,7 +1,0 @@
-﻿{
-"Code":"48512",
-"Description":"Test8512", ,
-"value": "Cannot parse the string \"etadata\": \"https:\" as Edm.Guid!"
-}
-}
-}

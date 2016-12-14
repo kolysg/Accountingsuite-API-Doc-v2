@@ -1,9 +1,0 @@
-﻿{
-"odata.error": {
-"code": "1",
-"message": {
-"lang": "en",
-"value": "Cannot parse the string \"etadata\": \"https:\" as Edm.Guid!"
-}
-}
-}

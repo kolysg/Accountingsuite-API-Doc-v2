@@ -1,6 +1,0 @@
-﻿{
-"Code":"48521",
-"Description":"Test8521", 
-"DataVersion": "",
-"Parent_Key": "00000000-0000-0000-0000-000000000000",
-"AdditionalInformation": "Charges for delivery, shipping, or shipping and handling. These charges represent the cost of the transportation of product sold to the customer, and if applicable, any special charges for handling or preparing the product for shipping. These separately identified charges are paid to the seller of the goods and not to the shipping company.",
